@@ -23,6 +23,7 @@
 	- `index.theme` outlines the file structure and properties of the icons. If you are adding additional folders, make sure to reflect the changes in this file.
 * Place SVGs in the correct place in the file structure (e.g. application icons under `applications`, MIME type icons under `mimetypes`).
 
+
 ### Resources for Contributions
 The color palette
 ![Palette for Delta](https://github.com/jamesalexatkin/delta-icons-linux/raw/master/Palette.svg) (Right-Click &rarr; Save as)
@@ -31,6 +32,9 @@ Icon template
 ![Icon Template for Delta](https://github.com/jamesalexatkin/delta-icons-linux/raw/master/template.svg) (Right-Click &rarr; Save as)
 
 Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Requesting missing icons
+* If you wish to request a missing icon to be added, please open a Github issue for this. This icon pack is still in development so any help in identifying future improvements is appreciated.
 
 ## Icon sample
 

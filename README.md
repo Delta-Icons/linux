@@ -5,9 +5,7 @@
 <h1 align="center" padding="100">Delta Icons</h1>
 <p align="center">Matted out icon pack for GNOME.</p>
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
-</p>
+
 
 ## Installation
 * Clone this repository to somewhere on your machine:
@@ -33,3 +31,9 @@ Icon template
 ![Icon Template for Delta](https://github.com/jamesalexatkin/delta-icons-linux/raw/master/template.svg) (Right-Click &rarr; Save as)
 
 Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Icon sample
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
+</p>

@@ -1,0 +1,83 @@
+Filesystem
+	folder
+	folder-remote
+	network-server
+	network-workgroup
+	start-here
+	user-bookmarks
+	user-desktop
+	user-home
+	user-trash
+
+Devices
+	audio-card
+	audio-input-microphone
+	battery
+	camera-photo
+	camera-video
+	camera-web
+	computer
+	drive-harddisk
+	drive-optical
+	drive-removable-media
+	input-gaming
+	input-keyboard
+	input-mouse
+	input-tablet
+	media-flash
+	media-floppy
+	media-optical
+	media-tape
+	modem
+	multimedia-player
+	network-wired
+	network-wireless
+	pda
+	/phone
+	printer
+	scanner
+	video-display
+
+MimeTypes
+	loads
+
+Applications
+	/accessories-calculator
+	accessories-character-map
+	accessories-dictionary
+	accessories-text-editor
+	help-browser
+	multimedia-volume-control
+	preferences-desktop-accessibility
+	preferences-desktop-font
+	^-keyboard
+	^-locale
+	^-multimedia
+	^-screensaver
+	-theme
+	-wallpaper
+	system-file-manager
+	system-software-install
+	system-software-update
+	utilities-system-monitor
+	/utilities-terminal
+
+Applications (extra)
+	/firefox
+	/steam
+	#spotify
+	franz
+	vs code
+	#discord
+	/amazon
+	accessories-screenshot
+	/accessories-camera
+	blender
+	flux
+	/tweaks
+	libreoffice suite
+	dconf
+	variety
+	wine
+	/chrome
+	/gnome-sudoku

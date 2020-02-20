@@ -1,9 +1,13 @@
 <p align="center">
-	<img src="https://github.com/jamesalexatkin/delta-icons-linux/raw/master/delta-logo.png" alt="">
+	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-logo.png" alt="">
 </p>
 
 <h1 align="center" padding="100">Delta Icons</h1>
 <p align="center">Matted out icon pack for GNOME.</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
+</p>
 
 ## Installation
 * Clone this repository to somewhere on your machine:

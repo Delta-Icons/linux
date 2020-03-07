@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="152" height="152" x="20" y="20" fill="#9ABEFF" rx="10" transform="matrix(1 0 0 -1 0 192)"/>
+    <g transform="rotate(-45 113.376 -16.678)">
+      <rect width="40" height="40" y="56" fill="#FFF" rx="6" transform="matrix(1 0 0 -1 0 152)"/>
+      <line x1="20" x2="20" y2="74.087" stroke="#FFF" stroke-linecap="round" stroke-width="10"/>
+    </g>
+  </g>
+</svg>

@@ -11,11 +11,15 @@
 * Clone this repository to somewhere on your machine:
 	- `git clone https://github.com/Delta-Icons/linux.git`
 
-* Move the `Delta` folder to `/home/.icons`.
+* **Easy way**:
+	- Run `sudo ./install.sh` from inside the repository.
 
-* Set the icon theme in one of the two following ways:
-	- Set `Appearances -> Icons` to `Delta` in the GNOME Tweak Tool, OR;
-	- Run `gsettings set org.gnome.desktop.interface icon-theme "Delta"`.
+* **Harder way**:
+	- Move the `Delta` folder to `/usr/share/icons` or `/home/.icons`.
+
+* Set the icon theme in one of the following ways:
+	- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. GNOME Tweak Tool).
+	- **GNOME**: Run `gsettings set org.gnome.desktop.interface icon-theme "Delta"`.
 
 ## Contributing
 * If you want to contribute to Delta by providing icons please do so by creating a SVG icon, cloning this repo and issuing a pull request.
@@ -41,5 +45,3 @@ Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives License
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
 </p>
-
-

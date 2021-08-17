@@ -1,18 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
-  <defs>
-    <path id="boot_manager-a" d="M136.433397,78.0901679 C136.433397,76.2332513 136.433397,58.0312976 136.433397,55.6504645 L136.433397,8.97720102 C136.433397,4.01773328 132.413746,0 127.455256,0 L8.97814087,0 C4.01850517,0 -2.72848411e-12,4.02219392 -2.72848411e-12,8.98382157 L-2.72848411e-12,55.6504645 C-2.72848411e-12,58.1037532 -2.79429141e-13,76.295093 -2.79429141e-13,78.0901679 C-2.79429141e-13,101.272227 11.5634946,121.753487 29.2371247,134.080589 C39.8592405,141.9469 52.9906739,146.278707 67.9822497,146.306866 C105.914244,146.284358 136.433397,115.751328 136.433397,78.0901679 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="security.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="745"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="75.194292"
+     inkscape:cy="106.72822"
+     inkscape:window-x="-12"
+     inkscape:window-y="-2"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <defs
+     id="defs3">
+    <path
+       id="boot_manager-a"
+       d="M136.433397,78.0901679 C136.433397,76.2332513 136.433397,58.0312976 136.433397,55.6504645 L136.433397,8.97720102 C136.433397,4.01773328 132.413746,0 127.455256,0 L8.97814087,0 C4.01850517,0 -2.72848411e-12,4.02219392 -2.72848411e-12,8.98382157 L-2.72848411e-12,55.6504645 C-2.72848411e-12,58.1037532 -2.79429141e-13,76.295093 -2.79429141e-13,78.0901679 C-2.79429141e-13,101.272227 11.5634946,121.753487 29.2371247,134.080589 C39.8592405,141.9469 52.9906739,146.278707 67.9822497,146.306866 C105.914244,146.284358 136.433397,115.751328 136.433397,78.0901679 Z" />
+    <mask
+       id="boot_manager-b"
+       fill="#fff">
+      <use
+         xlink:href="#boot_manager-a"
+         id="use5"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
   </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="translate(27.783 24.347)">
-      <mask id="boot_manager-b" fill="#fff">
-        <use xlink:href="#boot_manager-a"/>
-      </mask>
-      <use fill="#9ABEFF" xlink:href="#boot_manager-a"/>
-      <rect width="59.241" height="62.831" x="68.217" y="8.976" fill="#FF837D" mask="url(#boot_manager-b)"/>
-      <path fill="#FF837D" d="M8.97588137,71.8070509 L68.2166984,71.8070509 L68.2166984,139.990663 C68.2166984,139.990663 34.5293424,134.565562 20.9797089,118.970522 C7.4300754,103.375481 8.97588137,71.8070509 8.97588137,71.8070509 Z" mask="url(#boot_manager-b)"/>
-      <path stroke="#83868C" stroke-width="10" d="M131.433397,78.0901679 C131.433397,76.873639 131.433397,76.873639 131.433397,74.1024708 C131.433397,70.8094233 131.433397,70.8094233 131.433397,66.9834976 C131.433397,66.9010082 131.433397,66.9010082 131.433397,66.8185137 C131.433397,63.0696305 131.433397,63.0696305 131.433397,59.7991827 C131.433397,57.0071704 131.433397,57.0071704 131.433397,55.6504645 L131.433397,8.97720102 C131.433397,6.77991998 129.653085,5 127.455256,5 L8.97814087,5 C6.78113145,5 5,6.78241549 5,8.98382157 L5,55.6504645 C5,57.0234761 5,57.0234761 5,59.8121055 C5,63.0726075 5,63.0726075 5,66.8049821 C5,66.9610815 5,66.9610815 5,67.1171464 C5,70.9160221 5,70.9160221 5,74.1716607 C5,76.9046315 5,76.9046315 5,78.0901679 C5,99.024153 15.2442194,118.224663 32.0975118,129.979591 L32.2127928,130.062455 C42.1275876,137.404953 54.2715886,141.281104 67.9792827,141.306867 C103.113105,141.286019 131.433397,113.028844 131.433397,78.0901679 Z"/>
-    </g>
-    <line x1="96.5" x2="96.5" y1="31.078" y2="164.831" stroke="#83868C" stroke-linecap="square" stroke-width="5"/>
-    <line x1="160.178" x2="32.72" y1="96.5" y2="96.5" stroke="#83868C" stroke-linecap="square" stroke-width="5"/>
-  </g>
+  <use
+     xlink:href="#boot_manager-a"
+     id="use8"
+     style="fill:#9abeff;fill-rule:evenodd"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(27.783,24.347)" />
+  <path
+     style="fill:#ff837d"
+     d="m 32.720001,96.5 c 22.426181,0.08145 63.350642,0.0046 63.350642,0.0046 L 96.5,31.077999 157.62489,31.211109 160.17799,96.5 96.645917,97.942813 96.5,164.83099 c 0,0 -65.107158,-2.58789 -63.779999,-68.33099 z"
+     id="path850"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 36.761719 24.347656 C 31.860405 24.347656 27.783203 28.431713 27.783203 33.330078 L 27.783203 79.998047 L 27.783203 84.158203 L 27.783203 91.152344 L 27.783203 91.464844 L 27.783203 98.519531 L 27.783203 102.4375 C 27.783203 125.00267 38.850616 145.75518 57.019531 158.42773 C 67.827203 166.43146 81.107243 170.62677 95.751953 170.6543 L 95.759766 170.6543 L 95.765625 170.6543 C 133.57874 170.63191 164.2168 140.07807 164.2168 102.4375 L 164.2168 98.449219 L 164.2168 91.330078 L 164.2168 91.166016 L 164.2168 84.146484 L 164.2168 79.998047 L 164.2168 33.324219 C 164.2168 28.426145 160.13562 24.347656 155.23828 24.347656 L 36.761719 24.347656 z M 37.783203 34.347656 L 94 34.347656 L 94 94 L 37.783203 94 L 37.783203 91.464844 L 37.783203 91.152344 L 37.783203 84.158203 L 37.783203 79.998047 L 37.783203 34.347656 z M 99 34.347656 L 154.2168 34.347656 L 154.2168 79.998047 L 154.2168 84.146484 L 154.2168 91.166016 L 154.2168 91.330078 L 154.2168 94 L 99 94 L 99 34.347656 z M 37.783203 99 L 94 99 L 94 160.62109 C 81.982408 160.28465 71.571694 156.76018 62.970703 150.39062 L 62.943359 150.37109 L 62.769531 150.24609 L 62.740234 150.22656 C 47.202563 139.3892 37.783203 121.74029 37.783203 102.4375 L 37.783203 99 z M 99 99 L 154.2168 99 L 154.2168 102.4375 C 154.2168 133.59375 129.92746 158.8826 99 160.56055 L 99 99 z "
+     id="path14" />
 </svg>

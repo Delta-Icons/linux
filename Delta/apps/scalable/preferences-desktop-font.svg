@@ -12,8 +12,8 @@
    viewBox="0 0 192 192"
    version="1.1"
    id="svg883"
-   sodipodi:docname="applications-fonts.svg"
-   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+   sodipodi:docname="preferences-desktop-font.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata889">
     <rdf:RDF>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-width="1280"
+     inkscape:window-height="745"
      id="namedview885"
      showgrid="false"
      inkscape:zoom="3.71875"
-     inkscape:cx="72.800802"
+     inkscape:cx="85.92357"
      inkscape:cy="81.005218"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-12"
+     inkscape:window-y="-2"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg883" />
   <circle
@@ -54,16 +54,8 @@
      r="88"
      cy="96"
      cx="96" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.49153137px;line-height:1.25;font-family:'Now Alt';-inkscape-font-specification:'Now Alt';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17955518;stroke-opacity:1;"
-     x="25.215403"
-     y="118.38444"
-     id="text1441"
-     transform="scale(0.99282792,1.0072239)"><tspan
-       sodipodi:role="line"
-       id="tspan1439"
-       x="25.215403"
-       y="118.38444"
-       style="stroke-width:1.17955518;stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1;">abc</tspan></text>
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.49153137px;line-height:1.25;font-family:'Now Alt';-inkscape-font-specification:'Now Alt';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17955518;stroke-opacity:1"
+     d="M 76.521484 49.285156 L 76.521484 119.24023 L 82.330078 119.24023 L 82.330078 114.29688 C 85.890208 117.81358 90.667617 120 96.007812 120 C 106.78188 120 115.49609 111.16076 115.49609 100.23047 C 115.49609 89.300164 106.78188 80.460938 96.007812 80.460938 C 90.667618 80.460938 85.890208 82.647357 82.330078 86.164062 L 82.330078 49.285156 L 76.521484 49.285156 z M 46.488281 80.460938 C 37.400582 80.460938 30 86.449137 30 95.478516 L 35.808594 95.478516 C 35.808594 89.585657 40.492211 86.353516 46.394531 86.353516 C 52.296851 86.353516 56.982422 89.585657 56.982422 95.478516 L 56.982422 98.615234 L 42.648438 98.615234 C 34.872364 98.615234 30 102.79729 30 109.35547 C 30 115.81861 34.872426 120 42.742188 120 C 49.394008 120 54.734231 117.43332 57.451172 113.15625 C 58.669111 117.24322 61.667058 120 66.164062 120 C 67.194626 120 68.225108 119.71546 68.974609 119.24023 L 68.974609 114.29688 L 66.632812 114.29688 C 64.571684 114.29688 62.791016 112.87217 62.791016 109.35547 L 62.791016 95.478516 C 62.791016 86.449137 55.482294 80.460937 46.488281 80.460938 z M 143.44922 80.460938 C 132.67514 80.460938 123.96289 89.300164 123.96289 100.23047 C 123.96289 111.16076 132.67514 120 143.44922 120 C 152.16217 120 159.47043 114.29637 162 106.3125 L 155.81641 106.3125 C 153.56791 110.96975 148.88311 114.10742 143.44922 114.10742 C 135.86052 114.10742 129.77148 108.02425 129.77148 100.23047 C 129.77148 92.436686 135.86052 86.353516 143.44922 86.353516 C 148.88311 86.353516 153.56791 89.491179 155.81641 94.148438 L 162 94.148438 C 159.47043 86.164565 152.16217 80.460937 143.44922 80.460938 z M 96.007812 86.353516 C 103.5965 86.353516 109.6875 92.531732 109.6875 100.23047 C 109.6875 107.9292 103.5965 114.10742 96.007812 114.10742 C 88.419115 114.10742 82.330078 107.9292 82.330078 100.23047 C 82.330078 92.531732 88.419115 86.353516 96.007812 86.353516 z M 43.865234 103.55664 L 56.982422 103.55664 L 56.982422 106.02734 C 55.10867 111.44498 50.236055 114.86719 43.958984 114.86719 C 39.36829 114.86719 36.371094 112.68143 36.371094 109.25977 C 36.371094 105.83812 39.274541 103.55664 43.865234 103.55664 z "
+     id="path814" />
 </svg>

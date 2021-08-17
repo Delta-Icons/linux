@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="gmail-offline.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="745"
+     id="namedview34"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="31.211381"
+     inkscape:cy="80.132025"
+     inkscape:window-x="-12"
+     inkscape:window-y="-2"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32">
+    <inkscape:grid
+       type="xygrid"
+       id="grid867" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <path
+       id="gmail-a"
+       d="M4.54747351e-13,71.7157622 L4.54747351e-13,150.001754 C4.54747351e-13,155.520156 4.47827954,160 10.0025173,160 L76,160 L76,64 L75.9999998,0.00294791021 C74.0941403,0.0577937117 71.7472916,0.00294791021 63.2029419,7.6475812 C63.2029419,7.6475812 10.4735179,53.5937186 5.23675893,58.1099731 C4.54747351e-13,62.6262275 4.54747351e-13,67.2390327 4.54747351e-13,71.7157622 L4.54747351e-13,71.7157622 Z M152,71.7128143 L152,149.998806 C152,155.517208 147.52172,159.997052 141.997483,159.997052 L76,159.997052 L76,63.9970521 L76.0000002,0 C77.9058597,0.0548458015 80.2527084,0 88.7970581,7.64463329 C88.7970581,7.64463329 141.526482,53.5907707 146.763241,58.1070251 C152,62.6232796 152,67.2360848 152,71.7128143 L152,71.7128143 Z" />
+    <path
+       id="gmail-c"
+       d="M131.297232,-0.00152777456 C117.729301,9.75715684 85.2359135,31.7371055 78.9684992,35.5150657 C68.9156506,41.7603857 67.9058595,41.0121767 66,41.0670225 L66,41.0670225 L66,41.0699704 L65.8585854,41.0672409 C64.0379991,41.0481641 62.8330282,41.6072006 53.0315008,35.5180137 C46.7634717,31.7396828 14.2643244,9.75579256 0.698776059,-0.00145119098 Z" />
+    <mask
+       id="gmail-d"
+       fill="#fff">
+      <use
+         xlink:href="#gmail-c"
+         id="use17"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <rect
+       rx="10"
+       y="20"
+       x="20"
+       height="152"
+       width="152"
+       id="calendar-a" />
+    <rect
+       rx="10"
+       y="0"
+       x="0"
+       height="152"
+       width="152"
+       id="facebook-a" />
+  </defs>
+  <path
+     style="fill:#008000;"
+     d="M 30.699219,93.998047 30,142 h 130 l 1.29688,-48.001953 z"
+     id="path1052"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#728cba;fill-rule:evenodd"
+     d="m 96,12 v 0.0039 c -1.90586,0.05485 -4.252525,-1.01e-4 -12.796875,7.644532 0,0 -52.730038,45.944683 -57.966797,50.460937 C 19.999569,74.625629 20,79.238115 20,83.714844 V 162.00195 C 20,167.52036 24.477715,172 30.001953,172 c 44.000769,1.5e-4 87.995327,-0.002 131.996097,-0.002 5.52424,0 10.00195,-4.4816 10.00195,-10 V 83.712891 c 0,-4.476729 4.3e-4,-9.089214 -5.23633,-13.605469 C 161.52691,65.591168 108.79688,19.644531 108.79688,19.644531 100.25252,11.999898 97.90586,12.05485 96,12 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccsssccssscc" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+     d="M 33,33 V 142 H 159 V 33 Z"
+     id="rect858"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#b1b5bd;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="m 96.454993,84.390006 v 9.269998 h 14.849997 c -2.52,5.669999 -8.1,9.449996 -14.759996,9.449996 -9.089999,0 -16.109997,-7.019996 -16.109997,-16.109994 0,-9.089998 7.019998,-16.109997 16.109997,-16.109997 6.389996,0 11.609996,3.419999 14.309996,8.549998 l 10.26,-5.309999 c -4.68,-8.819998 -13.95,-14.849997 -24.569996,-14.849997 -15.389997,0 -27.719995,12.419998 -27.719995,27.719995 0,15.299994 12.329998,27.719994 27.719995,27.719994 15.299996,0 27.719996,-12.42 27.719996,-27.719994 v -2.61 z" />
+  <path
+     style="fill:#809ed4;fill-rule:evenodd"
+     d="m 172,84.626953 -10.70312,9.371094 c 0,0 -11.14198,8.232013 -36.29688,25.001953 -18,12 -24,16 -28,16 h -2 l -0.0039,-0.004 V 135 c -4,0 -10,-4 -28,-16 C 41.841194,102.23006 30.699219,93.998047 30.699219,93.998047 L 20,85.820312 V 162.00195 C 20,167.52036 24.477715,172 30.001953,172 H 96 v -0.002 h 65.99805 c 5.52424,0 10.00195,-4.4816 10.00195,-10 z"
+     id="path6-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsscccsccssccssc" />
+</svg>

@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="142" height="142" x="25" y="25" fill="#9ABEFF" stroke="#FFF" stroke-width="10" rx="10"/>
-    <rect width="142" height="142" x="25" y="25" fill="#9ABEFF" stroke="#FFF" stroke-width="10" rx="10"/>
-    <path fill="#FFF" d="M81.0163043,80 L114.032609,126 L48,126 L81.0163043,80 Z M116.478261,95.9789474 L138,126 L120.032,125.999 L118.019904,123.195418 L107.486,108.52 L116.478261,95.9789474 Z"/>
-    <rect width="132" height="36" x="30" y="126" fill="#98DC9A"/>
-    <circle cx="128" cy="61" r="13" fill="#F9DE81"/>
-  </g>
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="25" y="25" width="142" height="142" rx="10" style="fill-rule:evenodd;fill:#9abeff;stroke-width:10;stroke:#fff"/>
+ <rect x="25" y="25" width="142" height="142" rx="10" style="fill-rule:evenodd;fill:#9abeff;stroke-width:10;stroke:#fff"/>
+ <path d="m81.016 80 33.016 46h-66.033zm35.462 15.979 21.522 30.021-17.968-1e-3 -2.0121-2.8036-10.534-14.675z" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="30" y="126" width="132" height="36" style="fill-rule:evenodd;fill:#98dc9a"/>
+ <circle cx="128" cy="61" r="13" style="fill-rule:evenodd;fill:#f9de81"/>
 </svg>

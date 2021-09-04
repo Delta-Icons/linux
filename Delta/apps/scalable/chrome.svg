@@ -1,22 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
-  <defs>
-    <circle id="chrome-a" cx="87.5" cy="87.5" r="87.5"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="rotate(30 75.21 108.788)">
-      <mask id="chrome-b" fill="#fff">
-        <use xlink:href="#chrome-a"/>
-      </mask>
-      <use fill="#B1B5BD" xlink:href="#chrome-a"/>
-      <g mask="url(#chrome-b)">
-        <g transform="translate(-39.773 -6.96)">
-          <polygon fill="#FF837D" points="90.321 110.84 46.952 37.537 90.321 .091 195.583 1.11 209.844 13.001 214.682 33.883 213.586 50.868 204.995 53.856 127.677 53.856"/>
-          <polygon fill="#F9DE81" points="118.495 172.696 75.143 97.601 117.84 60.491 223.102 61.51 237.363 73.401 242.201 94.283 241.105 111.268 232.515 114.256 155.196 114.256" transform="rotate(120 158.672 116.594)"/>
-          <polygon fill="#98DC9A" points="51.574 170.539 6.978 95.03 50.347 57.584 155.609 58.603 169.87 70.494 174.708 91.376 173.612 108.36 167.707 114.563 87.119 115.244" transform="rotate(-120 90.843 114.061)"/>
-        </g>
-      </g>
-    </g>
-    <circle cx="96" cy="96" r="41" fill="#FFF"/>
-    <circle cx="96.5" cy="96.5" r="31.5" fill="#9ABEFF"/>
-  </g>
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m118.96 56.996-8.2574 71.402-60.859 41.912-0.05078 0.0605c13.968 8.8677 30.164 13.593 46.709 13.629 46.957-0.0555 85.499-37.166 87.33-84.088z" style="fill-rule:evenodd;fill:#f9de81"/>
+ <path d="m55.656 19.182c-28.678 15.136-46.633 44.891-46.656 77.318 0.043561 30.219 15.677 58.277 41.352 74.215l61.273-36.189-50.414-40.426z" style="fill-rule:evenodd;fill:#98dc9a"/>
+ <path d="m96.5 9a87.5 87.5 0 0 0-40.971 10.254l0.77734 72.953 60.842-30.672 66.676 38.492a87.5 87.5 0 0 0 0.17578-3.5273 87.5 87.5 0 0 0-87.5-87.5z" style="fill-rule:evenodd;fill:#ff837d"/>
+ <circle cx="96" cy="96" r="41" style="fill-rule:evenodd;fill:#fff"/>
+ <circle cx="96.5" cy="96.5" r="31.5" style="fill-rule:evenodd;fill:#9abeff"/>
 </svg>

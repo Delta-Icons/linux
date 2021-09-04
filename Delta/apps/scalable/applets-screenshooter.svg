@@ -1,82 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="192"
-   height="192"
-   viewBox="0 0 192 192"
-   version="1.1"
-   id="svg2124"
-   sodipodi:docname="applets-screenshooter.svg"
-   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
-  <metadata
-     id="metadata2130">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs2128" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     id="namedview2126"
-     showgrid="false"
-     inkscape:zoom="1.7383041"
-     inkscape:cx="103.19135"
-     inkscape:cy="81.734275"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2124" />
-  <rect
-     style="fill:#96dfd3;fill-rule:evenodd;fill-opacity:1"
-     id="rect2118"
-     rx="10"
-     y="20"
-     x="20"
-     height="152"
-     width="152" />
-  <path
-     style="fill:#ffffff;fill-rule:nonzero"
-     inkscape:connector-curvature="0"
-     id="path2120"
-     d="m 43,111 h 10 v 28.99883 c 0,0.51439 0.385695,0.93674 0.884243,0.99445 L 54.001171,141 H 82 v 10 H 54.001171 c -5.979754,0 -10.844533,-4.76879 -10.997464,-10.71266 L 43,139.99883 Z m 108,0 v 28.99883 C 151,146.07503 146.07614,151 139.99883,151 v 0 H 111 v -10 h 28.99883 c 0.51439,0 0.93674,-0.3857 0.99445,-0.88424 L 141,139.99883 V 111 Z M 139.99883,43 C 146.07503,43 151,47.923864 151,54.001171 v 0 V 82 H 141 V 54.001171 c 0,-0.514389 -0.3857,-0.936739 -0.88424,-0.99445 L 139.99883,53 H 111 V 43 Z M 82,43 V 53 H 54.001171 c -0.514389,0 -0.936739,0.385695 -0.99445,0.884243 L 53,54.001171 V 82 H 43 V 54.001171 C 43,48.021417 47.768791,43.156638 53.712663,43.003707 L 54.001171,43 Z" />
-  <rect
-     id="rect1519"
-     rx="4.2105265"
-     y="64"
-     x="64"
-     height="64"
-     width="64"
-     style="fill:#8c72bd;fill-rule:evenodd;stroke-width:0.42105263;fill-opacity:1" />
-  <path
-     id="path1521"
-     d="m 96.210526,113.26316 c 9.417904,0 17.052634,-7.63473 17.052634,-17.052633 0,-9.417908 -7.63473,-17.052632 -17.052634,-17.052632 -9.417908,0 -17.052632,7.634724 -17.052632,17.052632 0,9.417903 7.634724,17.052633 17.052632,17.052633 z"
-     inkscape:connector-curvature="0"
-     style="fill:#56595b;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.52631569" />
-  <circle
-     id="circle1523"
-     r="2.5263157"
-     cy="69.894737"
-     cx="122.10526"
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.42105263" />
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="20" y="20" width="152" height="152" rx="10" style="fill-rule:evenodd;fill:#96dfd3"/>
+ <path d="m43 111h10v28.999c0 0.51439 0.3857 0.93674 0.88424 0.99445l0.11693 0.00672h27.999v10h-27.999c-5.9798 0-10.845-4.7688-10.997-10.713l-0.003707-0.28851zm108 0v28.999c0 6.0762-4.9239 11.001-11.001 11.001h-28.999v-10h28.999c0.51439 0 0.93674-0.3857 0.99445-0.88424l0.00672-0.11693v-28.999zm-11.001-68c6.0762 0 11.001 4.9239 11.001 11.001v27.999h-10v-27.999c0-0.51439-0.3857-0.93674-0.88424-0.99445l-0.11693-0.006721h-28.999v-10zm-57.999 0v10h-27.999c-0.51439 0-0.93674 0.3857-0.99445 0.88424l-0.006721 0.11693v27.999h-10v-27.999c0-5.9798 4.7688-10.845 10.713-10.997l0.28851-0.003707z" style="fill:#fff"/>
+ <rect x="64" y="64" width="64" height="64" rx="4.2105" style="fill-rule:evenodd;fill:#8c72bd;stroke-width:.42105"/>
+ <circle cx="96.21" cy="95.94" r="18.315" style="fill:#fff;paint-order:stroke fill markers;stroke-width:3.4737"/>
+ <path d="m96.211 80.422c-8.7352 0-15.789 7.0539-15.789 15.789 0 8.7352 7.0539 15.789 15.789 15.789 8.7352 0 15.789-7.0539 15.789-15.789 0-8.7352-7.0539-15.789-15.789-15.789z" style="fill-rule:evenodd;fill:#56595b"/>
+ <circle cx="122.11" cy="69.895" r="2.5263" style="fill-rule:evenodd;fill:#fff;stroke-width:.42105"/>
 </svg>

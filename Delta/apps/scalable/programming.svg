@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
-  <defs>
-    <rect id="programm-a" width="152" height="152" x="20" y="20" rx="10"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="programm-b" fill="#fff">
-      <use xlink:href="#programm-a"/>
-    </mask>
-    <use fill="#FF837D" transform="matrix(1 0 0 -1 0 192)" xlink:href="#programm-a"/>
-    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" points="46 115 64.656 129.641 46 144.172" mask="url(#programm-b)"/>
-    <line x1="81.5" x2="105.521" y1="145" y2="145" stroke="#FFF" stroke-linecap="round" stroke-width="10" mask="url(#programm-b)"/>
-  </g>
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <rect id="programm-a" x="20" y="20" width="152" height="152" rx="10"/>
+ </defs>
+ <use transform="matrix(1,0,0,-1,0,192)" width="100%" height="100%" style="fill-rule:evenodd;fill:#ff837d" xlink:href="#programm-a"/>
+ <path d="M 46,115 64.656,129.641 46,144.172" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:10;stroke:#fff"/>
+ <path d="m81.5 145h24.021" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:10;stroke:#fff"/>
 </svg>

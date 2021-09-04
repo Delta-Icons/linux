@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="152" height="152" x="20" y="20" fill="#728DBE" rx="10"/>
-    <path fill="#9ABEFF" d="M20,42.9965372 C20,37.4756022 24.4775919,33 29.9984742,33 L63.5667725,33 C72.0254898,33 75.1405393,46.256422 78.9328151,46.256422 L161.997289,46.256422 C167.521634,46.256422 172,50.7317026 172,56.254764 L172,162.001658 C172,167.52359 167.522997,172 161.997483,172 L30.0025173,172 C24.4782795,172 20,167.532652 20,162.003463 L20,42.9965372 Z"/>
-    <path stroke="#728DBE" stroke-width="5" d="M66.5,77.0055355 L66.5,145.340782 C66.5,149.491165 69.853734,152.846317 73.9960811,152.846317 L122.981562,152.846317 C124.355337,152.846317 125.474919,151.725158 125.474919,150.343306 L125.474919,72.0030112 C125.474919,70.6191091 124.35785,69.5 122.981562,69.5 L73.9960811,69.5 C69.8552638,69.5 66.5,72.8589555 66.5,77.0055355 Z" transform="rotate(90 95.987 111.173)"/>
-    <path stroke="#728DBE" stroke-width="5" d="M98.3946102,125.766008 L98.3946102,42.4196909 L95.9874596,42.4196909 C94.6612326,42.4196909 93.5803091,43.4998333 93.5803091,44.8271013 L93.5803091,123.358598 C93.5803091,124.68315 94.6617738,125.766008 95.9874596,125.766008 L98.3946102,125.766008 Z" transform="rotate(90 95.987 84.093)"/>
-    <circle cx="60" cy="84" r="3" fill="#9ABEFF"/>
-  </g>
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="20" y="20" width="152" height="152" rx="10" style="fill-rule:evenodd;fill:#728dbe"/>
+ <path d="m20 42.997c0-5.5209 4.4776-9.9965 9.9985-9.9965h33.568c8.4587 0 11.574 13.256 15.366 13.256h83.064c5.5243 0 10.003 4.4753 10.003 9.9983v105.75c0 5.5219-4.477 9.9983-10.003 9.9983h-131.99c-5.5242 0-10.003-4.4674-10.003-9.9965z" style="fill-rule:evenodd;fill:#9abeff"/>
+ <path d="m56.721 79.186c-2.6853 0-4.9062 2.2211-4.9062 4.9082v4.9062h0.0098c-0.0011 0.06103-0.0098 0.12036-0.0098 0.18164v48.986c0 2.734 2.2698 4.9922 5.002 4.9922h78.34c2.7292 0 5.0039-2.2607 5.0039-4.9922v-48.986c0-0.06129-9e-3 -0.12061-0.01-0.18164h0.01v-4.9062c0-2.6836-2.2236-4.9082-4.9082-4.9082h-73.434zm0.10352 9.8145h78.326l0.01 49.168-78.344-8e-3z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill-rule:evenodd;fill:#728dbe;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <circle cx="60" cy="84" r="3" style="fill-rule:evenodd;fill:#9abeff"/>
 </svg>

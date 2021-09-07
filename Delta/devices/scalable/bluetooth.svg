@@ -1,0 +1,5 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="96" cy="96" r="88" style="fill-rule:evenodd;fill:#9abeff"/>
+ <polyline transform="translate(76,65)" points="0.103 8.76 37.076 45.733 21.725 61.083 21.725 0.777" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:7;stroke:#fff"/>
+ <polyline transform="matrix(1,0,0,-1,76,126.86)" points="0.103 8.76 37.076 45.733 21.725 61.083 21.725 0.777" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:7;stroke:#fff"/>
+</svg>

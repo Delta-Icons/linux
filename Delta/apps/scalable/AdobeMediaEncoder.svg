@@ -1,0 +1,7 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="19.5" y="19.5" width="153" height="153" rx="10" style="fill-rule:evenodd;fill:#545859"/>
+ <rect class="cls-1" x="19.5" y="19.5" width="153" height="153" rx="10" ry="10" style="fill:#BD9AFF"/>
+ <rect class="cls-2" x="29.5" y="30" width="132" height="132" style="fill:#56595b"/>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <path d="m60 60v72h72v-10.289h-10.289v-10.281h-10.281v-10.289h-10.289v-10.281h-10.281v-10.289h-10.289v-10.281h-10.281v-10.289zm20.57 10.289h10.289v-10.289h-10.289zm10.289 0v10.281h10.281v-10.281zm10.281 10.281v10.289h10.289v-10.289zm10.289 10.289v10.281h10.281v-10.281zm10.281 10.281v10.289h10.289v-10.289zm-10.281-41.141v10.289h10.281v-10.289zm10.281 10.289v10.281h10.289v-10.281z" style="fill:#BD9AFF;paint-order:stroke fill markers"/>
+</svg>

@@ -1,10 +1,10 @@
 <svg width="192" height="192" fill="none" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
  <rect x="32.501" y="8.0014" width="127" height="176" rx="9.9998" style="fill:#fff;stroke-width:4"/>
- <rect x="56" y="42" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
- <rect x="56" y="62" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
- <rect x="56" y="82" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
- <rect x="56" y="102" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
- <rect x="56" y="122" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
- <rect x="56" y="142" width="80" height="8" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
  <path d="m32.4 172 115.6 12s-104-20-107.6-20c-4.4 0-4.4 4-8 8z" style="fill:#d8d8d8;stroke-width:4"/>
+ <rect x="56" y="44" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="56" y="64" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="56" y="84" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="56" y="104" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="56" y="124" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="56" y="144" width="80" height="5" ry="1" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
 </svg>

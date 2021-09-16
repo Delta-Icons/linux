@@ -1,0 +1,12 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 56s0-12 12-12h36v48h-36l-12-12z" style="fill:#54688c;stroke-width:4"/>
+ <path d="m72 28 24 32 24-32" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:#71a372"/>
+ <rect x="64" y="32" width="64" height="84" ry="32" style="fill:#98dc9a;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m32 54v82s0 12 12 12h104l12-12v-60s0-12-12-12h-104c-12 0-12-10-12-10z" style="fill:#9abeff;stroke-width:4"/>
+ <path d="m148 168h-8v-84h8c12 0 12-10 12-10v82s0 12-12 12z" style="fill:#54688c;stroke-width:4"/>
+ <circle cx="84" cy="52" r="4" style="fill:#71a372;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:8"/>
+ <circle cx="108" cy="52" r="4" style="fill:#71a372;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:8"/>
+ <path d="m96.406 75.969a2.0002 2.0002 0 0 0-1.9687 2.0312v6.1094a14 14 0 0 0-12.398 13.891 14 14 0 0 0 5.0391 10.758l-24.445 50.633a6.0006 6.0006 0 1 0 10.805 5.2187l18.789-38.93c1.1514-0.99148 2.421-1.6797 3.8125-1.6797 1.3829 0 2.6431 0.683 3.7891 1.6641l18.805 38.945a6.0006 6.0006 0 1 0 10.805-5.2187l-24.445-50.641a14 14 0 0 0 5.0469-10.75 14 14 0 0 0-11.602-13.773v-6.2266a2.0002 2.0002 0 0 0-2.0313-2.0312zm-0.36718 16.031a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" style="fill:#54688c;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:8"/>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+</svg>

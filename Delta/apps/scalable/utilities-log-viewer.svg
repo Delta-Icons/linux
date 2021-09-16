@@ -1,0 +1,15 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m24 33c-8.2235 0-15 6.7765-15 15v96c0 8.2235 6.7765 15 15 15h144c8.2235 0 15-6.7765 15-15v-96c0-8.2235-6.7765-15-15-15z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill-rule:evenodd;fill:#b1b5bd;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m24 43c-2.8565 0-5 2.1435-5 5v96c0 2.8565 2.1435 5 5 5h144c2.8565 0 5-2.1435 5-5v-96c0-2.8565-2.1435-5-5-5h-144z" style="fill-rule:evenodd;fill:#56595b"/>
+ <rect x="31" y="54" width="22" height="4" ry="1" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <rect x="31" y="62" width="71" height="4" ry="1" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <rect x="31" y="70" width="53" height="4" ry="1" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <rect x="31" y="86" width="48" height="4" ry="1" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <rect x="31" y="94" width="24" height="4" ry="1" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <rect x="31" y="102" width="80" height="4" ry="1" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <rect x="31" y="118" width="73" height="4" ry="1" style="fill:#f9de81;paint-order:stroke fill markers"/>
+ <rect x="31" y="126" width="56" height="4" ry="1" style="fill:#f9de81;paint-order:stroke fill markers"/>
+ <rect x="31" y="134" width="33" height="4" ry="1" style="fill:#f9de81;paint-order:stroke fill markers"/>
+ <circle cx="152" cy="152" r="31.606" style="fill:#ff837d"/>
+ <path d="m149.61 158.6h5.5043l0.91738-23.336h-7.2817zm2.7522 12.385c2.2935 0 4.0709-1.8348 4.0709-4.0136 0-2.2361-1.7774-4.0709-4.0709-4.0709-2.1788 0-4.0136 1.8348-4.0136 4.0709 0 2.1788 1.8348 4.0136 4.0136 4.0136z" style="fill:#fff"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="192" height="192" fill="none" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m130.31 20c5.523-9.98e-4 12.217 3.891 14.953 8.6946l33.458 58.747c2.736 4.8034 2.716 12.574-0.045 17.357l-33.768 58.487c-2.761 4.782-9.48 8.685-15.008 8.717l-67.606 0.39721c-5.5277 0.032-12.247-3.82-15.006-8.601l-34.223-59.312c-2.7597-4.783-2.7589-12.537 0.0022-17.319l33.768-58.487c2.7609-4.7822 9.4777-8.6601 14.998-8.6615z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#ba6561"/>
+ <path d="m100.52 100.22 36.98 57.421 34.514-57.421z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m100.52 91.176 36.98-56.805 34.514 56.805z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m19.987 91.176 34.411-56.805 36.774 56.805z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m19.987 100.22 34.411 57.421 36.774-57.421z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m61.795 29.108 34.205 52.515 34.59-53.106z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m62.491 163.19 33.622-52.358 33.378 52.072z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m32 96s20-28 64-28 64 28 64 28-20 28-64 28-64-28-64-28z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:#fff"/>
+ <circle cx="96" cy="96" r="28" style="fill:#728dbe;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="96" cy="96" r="16" style="fill:#4a4a4a;paint-order:stroke fill markers;stroke-width:4"/>
+</svg>

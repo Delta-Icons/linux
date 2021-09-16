@@ -1,0 +1,10 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -860.36)">
+  <rect x="20" y="880.36" width="152" height="152" rx="10" ry="10" style="fill:#8e6f60"/>
+  <rect x="23" y="883.36" width="146" height="146" rx="10" ry="10" style="fill:#fff"/>
+  <path d="m20 890.32c0-5.5228 4.4772-9.9544 10-9.9544h132c5.523 0 10 4.4772 10 10v112c0 5.5228-4.477 10-10 10h-124.9s-17.102-1-17.102 11v-133.05z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#d3b69a"/>
+  <path d="m46 880.36c-1.1045 0-1.9999 0.8956-2 2v76c-0.0043 1.538 1.6566 2.5052 2.9922 1.7424l13.008-7.4376 13.008 7.4376c1.3356 0.7628 2.9964-0.204 2.9922-1.7424v-76c-1.13e-4 -1.1044-0.89548-2-2-2z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#ba6561;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+</svg>

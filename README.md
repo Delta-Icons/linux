@@ -9,7 +9,6 @@
 	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
 </p>
 
-
 ## Installation
 * Clone this repository to somewhere on your machine:
 	- `git clone https://github.com/Delta-Icons/linux.git`
@@ -23,6 +22,10 @@
 * Set the icon theme in one of the following ways:
 	- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. GNOME Tweak Tool).
 	- **GNOME**: Run `gsettings set org.gnome.desktop.interface icon-theme "Delta"`.
+
+## Our Discord Server
+If you need help contributing or just want to chat with other contributors feel free to join us here: https://discord.gg/F9RFqHN <br>
+_This server is __not__ intended for requests!_
 
 ## Contributing
 Please refer to [CONTRIBUTING.md](https://github.com/Delta-Icons/Linux/blob/master/CONTRIBUTING.md)

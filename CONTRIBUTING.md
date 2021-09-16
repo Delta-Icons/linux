@@ -9,11 +9,11 @@
 
 (Right-Click &rarr; Save as)
 
-<a href="https://github.com/Delta-Icons/Linux/raw/master/Palette.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_color-pallete.png" alt="Palette for Delta" style="width:412px;height:128px;"></a>
+<a href="https://github.com/Delta-Icons/Linux/raw/master/Palette.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_palette.png" alt="Palette for Delta" style="width:412px;height:128px;"></a>
 
-<a href="https://github.com/Delta-Icons/Linux/raw/master/template.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_icon-template.png" alt="Icon Template for Delta" style="width:412px;height:128px;"></a>
+<a href="https://github.com/Delta-Icons/Linux/raw/master/template.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_template.png" alt="Icon Template for Delta" style="width:412px;height:128px;"></a>
 
-<a href="https://github.com/Delta-Icons/Linux/raw/master/template_tutorial.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_icon template-tut.png" alt="Icon Template Tutorial for Delta" style="width:412px;height:128px;"></a>
+<a href="https://github.com/Delta-Icons/Linux/raw/master/template_tutorial.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_template-tutorial.png" alt="Icon Template Tutorial for Delta" style="width:412px;height:128px;"></a>
 
 
 ### Font: 

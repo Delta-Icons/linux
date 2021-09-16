@@ -5,13 +5,16 @@
 
 
 ### Resources for Contributions
-The color palette
-![Palette for Delta](https://github.com/Delta-Icons/Linux/raw/master/Palette.svg) (Right-Click &rarr; Save as)
 
-Icon template
-![Icon Template for Delta](https://github.com/Delta-Icons/Linux/raw/master/template.svg) (Right-Click &rarr; Save as)
 
-Icon template tutorial
-![Icon Template Tutorial for Delta](https://github.com/Delta-Icons/Linux/raw/master/template_tutorial.svg) (Right-Click &rarr; Save as)
+(Right-Click &rarr; Save as)
 
-Font: [Now](https://www.1001fonts.com/now-font.html) (Use Now Alt from the same family for alternate lowercase "a") (Make sure to convert font to path on SVG before saving.)
+<a href="https://github.com/Delta-Icons/Linux/raw/master/Palette.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_color-pallete.png" alt="Palette for Delta" style="width:412px;height:128px;"></a>
+
+<a href="https://github.com/Delta-Icons/Linux/raw/master/template.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_icon-template.png" alt="Icon Template for Delta" style="width:412px;height:128px;"></a>
+
+<a href="https://github.com/Delta-Icons/Linux/raw/master/template_tutorial.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_icon template-tut.png" alt="Icon Template Tutorial for Delta" style="width:412px;height:128px;"></a>
+
+
+### Font: 
+[Now](https://www.1001fonts.com/now-font.html) (Use Now Alt from the same family for alternate lowercase "a") (Make sure to convert font to path on SVG before saving.)

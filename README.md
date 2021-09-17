@@ -14,10 +14,10 @@
 	- `git clone https://github.com/Delta-Icons/linux.git`
 
 * **Easy way**:
-	- Run `sudo ./install.sh` from inside the repository.
+	- ~~Run `sudo ./install.sh` from inside the repository.~~ There is currently no install script at this time.
 
 * **Harder way**:
-	- Move the `Delta` folder to `/usr/share/icons` or `/home/.icons`.
+	- Move the `Delta` folder to `/usr/share/icons`, `/home/.local/share/icons`, or `/home/.icons`.
 
 * Set the icon theme in one of the following ways:
 	- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. GNOME Tweak Tool).

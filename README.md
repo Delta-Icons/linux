@@ -17,7 +17,7 @@
 	- ~~Run `sudo ./install.sh` from inside the repository.~~ There is currently no install script at this time.
 
 * **Harder way**:
-	- Move the `Delta` folder to `/usr/share/icons`, `/home/.local/share/icons`, or `/home/.icons`.
+	- Move the `Delta` folder to `/usr/share/icons` (All Users), `~/.local/share/icons` (KDE), or `~/.icons` (GTK).
 
 * Set the icon theme in one of the following ways:
 	- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. GNOME Tweak Tool).

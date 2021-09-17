@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Delta-Icons/Linux/raw/master/resources/palette/Palette.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_palette.png" alt="Palette for Delta" style="width:412px;height:128px;"></a>
 
-<a href="https://github.com/Delta-Icons/Linux/raw/master/resources/template/Palette.gpl"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/buttons/button_gpl.png" alt=".GPL Palette" style="width:188px;height:100px;"></a>
+<a href="https://raw.githubusercontent.com/Delta-Icons/Linux/master/resources/palette/Palette.gpl"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/buttons/button_gpl.png" alt=".GPL Palette" style="width:188px;height:100px;"></a>
 
 <a href="https://github.com/Delta-Icons/Linux/raw/master/resources/template/template.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_template.png" alt="Icon Template for Delta" style="width:412px;height:128px;"></a>
 

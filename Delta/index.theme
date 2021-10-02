@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Delta
 Comment=Delta icon theme
-Inherits=Flat-Remix-Blue
+Inherits=breeze,Adwaita,hicolor
 
 Example=folder
 
@@ -20,30 +20,37 @@ PanelSizes=16,22,24,32,48,64
 DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
-Directories=apps/scalable,devices/scalable,mimetypes/scalable,places/scalable
+Directories=scalable/apps,scalable/games,scalable/devices,scalable/mimetypes,scalable/places
 
-[apps/scalable]
+[scalable/apps]
 Context=Applications
 Size=192
 MinSize=1
 MaxSize=512
 Type=Scalable
 
-[devices/scalable]
+[scalable/games]
+Context=Games
+Size=192
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[scalable/devices]
 Context=Devices
 Size=512
 MinSize=1
 MaxSize=512
 Type=Scalable
 
-[mimetypes/scalable]
+[scalable/mimetypes]
 Context=MimeTypes
 Size=512
 MinSize=1
 MaxSize=512
 Type=Scalable
 
-[places/scalable]
+[scalable/places]
 Context=Places
 Size=512
 MinSize=1

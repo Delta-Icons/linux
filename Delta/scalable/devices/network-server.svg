@@ -1,0 +1,11 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="32" y="8" width="128" height="176" rx="10.079" opacity=".63" stroke-width="1.0068" style="fill:#83868c;opacity:1"/>
+ <rect x="45" y="25" width="102" height="31" ry="8" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <circle cx="130" cy="40" r="5" style="fill:#98dc9a;paint-order:stroke fill markers"/>
+ <rect x="45" y="62" width="102" height="31" ry="8" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <circle cx="130" cy="77" r="5" style="fill:#98dc9a;paint-order:stroke fill markers"/>
+ <rect x="45" y="98" width="102" height="31" ry="8" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <circle cx="130" cy="113" r="5" style="fill:#98dc9a;paint-order:stroke fill markers"/>
+ <rect x="45" y="135" width="102" height="31" ry="8" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <circle cx="130" cy="150" r="5" style="fill:#98dc9a;paint-order:stroke fill markers"/>
+</svg>

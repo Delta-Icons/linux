@@ -1,0 +1,20 @@
+<svg width="192" height="192" fill="none" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="19.5" y="19.5" width="153" height="153" rx="10" style="fill:#9abeff;stroke-width:4"/>
+ <rect x="72" y="104" width="56" height="16" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <path d="m72 108h12v-48h-16c-4 0-4 4-4 4v40z" style="fill:#ba6561;stroke-width:4"/>
+ <path d="m84 120 4 4-4 8h-16c-4 0-4-4-4-4v-28h8v20z" style="fill:#ba6561;stroke-width:4"/>
+ <path d="m84 120v12h48c4 0 4-4 4-4v-8z" style="fill:#ff837d;stroke-width:4"/>
+ <rect x="76" y="116" width="12" height="4" style="fill:#d8d8d8;paint-order:stroke fill markers;stroke-width:4.899"/>
+ <rect x="88" y="116" width="44" height="4" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="72" y="95" width="4" height="25" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <path d="m64 112h8l8-12-8-12h-8z" style="fill:#ff837d"/>
+ <path d="m60 112-8-12 8-12h8l8 12-8 12z" style="fill:#ba6561;stroke-width:4"/>
+ <path d="m84 60v48h52v-44c0-2.216-1.784-4-4-4h-48z" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m70.758 92.141-16.258 11.617 2.2188 3.3281 16.258-11.617z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#000;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:.25;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <circle cx="97.25" cy="89.151" r="10.849" style="fill:#ba6561;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.6165"/>
+ <circle cx="98" cy="90" r="10" style="fill:#ececec;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:4"/>
+ <circle cx="122.85" cy="89.151" r="10.849" style="fill:#ba6561;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.6165"/>
+ <circle cx="122" cy="90" r="10" style="fill:#ececec;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:4"/>
+ <circle cx="98.057" cy="90.15" r="8.0538" style="fill:#fff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.3333"/>
+ <circle cx="122" cy="90" r="8.0135" style="fill:#fff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.3423"/>
+</svg>

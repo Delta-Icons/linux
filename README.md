@@ -9,6 +9,9 @@
 	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
 </p>
 
+## Notice
+* It is recommended to use dark themes with this icon pack.
+
 ## Installation
 * Clone this repository to somewhere on your machine:
 	- `git clone https://github.com/Delta-Icons/linux.git`

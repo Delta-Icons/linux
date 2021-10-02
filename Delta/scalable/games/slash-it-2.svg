@@ -1,0 +1,7 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="96" cy="96" r="88" style="fill:#ff837d"/>
+ <circle cx="95.75" cy="95.75" r="76.25" style="fill:#4a4a4a;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m60 56c-2.216 0-4 1.784-4 4v40c0 2.216 1.784 4 4 4h56v4h-56c-2.216 0-4 1.784-4 4v20c0 2.216 1.784 4 4 4h72c2.216 0 4-1.784 4-4v-40c0-2.216-1.784-4-4-4h-56v-4h56c2.216 0 4-1.784 4-4v-20c0-2.216-1.784-4-4-4zm2 4h68c1.108 0 2 0.892 2 2v16c0 1.108-0.892 2-2 2h-58v12h58c1.108 0 2 0.892 2 2v36c0 1.108-0.892 2-2 2h-68c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2h58v-12h-58c-1.108 0-2-0.892-2-2v-36c0-1.108 0.892-2 2-2z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+</svg>

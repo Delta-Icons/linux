@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <title>Freezer</title>
+ <defs>
+  <linearGradient id="a" x1="96" x2="96" y1="70.97" y2="184.58" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8c72bd" offset="0"/>
+   <stop stop-color="#728dbe" offset=".17"/>
+   <stop stop-color="#9abeff" offset=".41"/>
+   <stop stop-color="#7baa96" offset=".85"/>
+   <stop stop-color="#71a372" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="96" x2="96" y1="9.77" y2="60.88" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9de81" offset="0"/>
+   <stop stop-color="#fbbf80" offset=".18"/>
+   <stop stop-color="#ff837d" offset=".49"/>
+   <stop stop-color="#f68282" offset=".57"/>
+   <stop stop-color="#dd7e90" offset=".69"/>
+   <stop stop-color="#b578a6" offset=".86"/>
+   <stop stop-color="#8c72bd" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="M157.29,68H34.71a2.16,2.16,0,0,0-2.21,2.1v95.65a9.77,9.77,0,0,0,10,9.51h6.58v3.45A5.39,5.39,0,0,0,54.6,184H71.16a5.39,5.39,0,0,0,5.52-5.25V175.3h38.64v3.45a5.39,5.39,0,0,0,5.52,5.25H137.4a5.39,5.39,0,0,0,5.52-5.25V175.3h6.58a9.77,9.77,0,0,0,10-9.51V70.14A2.16,2.16,0,0,0,157.29,68ZM67,102.6a4,4,0,0,1-4.08,3.88h0a4,4,0,0,1-4.08-3.88V80.7a4,4,0,0,1,4.08-3.88h0A4,4,0,0,1,67,80.7Z" fill="url(#a)"/>
+ <path d="M149.5,8H42.5a9.77,9.77,0,0,0-10,9.51V60.69a2.16,2.16,0,0,0,2.21,2.1H157.29a2.16,2.16,0,0,0,2.21-2.1V17.51A9.77,9.77,0,0,0,149.5,8ZM67,50.06a4,4,0,0,1-4.08,3.88h0a4,4,0,0,1-4.08-3.88V28.16a4,4,0,0,1,4.08-3.88h0A4,4,0,0,1,67,28.16Z" fill="url(#b)"/>
+</svg>

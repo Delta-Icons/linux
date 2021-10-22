@@ -1,0 +1,9 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="44" y="16" width="104" height="132" rx="10.909" style="fill:#979797;paint-order:stroke fill markers;stroke-width:.90909"/>
+ <rect transform="rotate(90)" x="44" y="-176" width="112" height="160" rx="9.1625" style="fill:#ccc;stroke-width:.91522"/>
+ <rect x="36" y="108" width="120" height="40" rx="7.2727" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:.90909"/>
+ <path d="m56 120v8.7266 40c0 4.0291 3.2443 7.2734 7.2734 7.2734h65.453c4.0291 0 7.2734-3.2444 7.2734-7.2734v-40-8.7266h-80z" style="fill:#ececec;paint-order:stroke fill markers;stroke-width:.90909"/>
+ <rect x="68" y="132.36" width="56" height="3.6364" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:.64282"/>
+ <rect x="68" y="144.36" width="32" height="3.6364" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:.64282"/>
+ <rect x="68" y="156.36" width="44" height="3.6364" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:.90909"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient880">
+   <stop style="stop-color:#728dbe" offset="0"/>
+   <stop style="stop-color:#54688c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient882" x1="96" x2="96" y1="128" y2="92" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient880"/>
+  <linearGradient id="linearGradient882-7" x1="96" x2="96" y1="128" y2="92" gradientTransform="matrix(.7377 0 0 .7377 25.18 28.328)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient880"/>
+  <linearGradient id="linearGradient955" x1="96" x2="96" y1="132" y2="80" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient880"/>
+ </defs>
+ <rect x="20" y="148" width="152" height="24" ry="12" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <rect x="20" y="148" width="152" height="12" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:24"/>
+ <path d="m32 148h128l-12-80h-104z" style="fill:#d2d2d2;stroke-linecap:round;stroke-linejoin:round;stroke-width:24;stroke:#d2d2d2"/>
+ <path d="m47.469 70-10.857 76h118.78l-10.857-76h-97.062z" style="fill:#54688c"/>
+ <ellipse cx="96" cy="106" rx="44" ry="24" style="fill:#728dbe;paint-order:stroke fill markers"/>
+ <ellipse cx="96" cy="108" rx="44" ry="24" style="fill:url(#linearGradient882);paint-order:stroke fill markers"/>
+ <ellipse cx="96" cy="110" rx="32.459" ry="17.705" style="fill:#54688c;paint-order:stroke fill markers;stroke-width:.7377"/>
+ <ellipse cx="96" cy="106" rx="32.459" ry="17.705" style="fill:#728dbe;paint-order:stroke fill markers;stroke-width:.7377"/>
+ <ellipse cx="96" cy="108" rx="32.459" ry="17.705" style="fill:url(#linearGradient882-7);paint-order:stroke fill markers;stroke-width:.7377"/>
+ <path d="m72 108c0-8 20-16 24-44 4 28 24 36 24 44s-12 8-24 8-24 0-24-8z" style="fill:url(#linearGradient955)"/>
+ <circle cx="96" cy="32" r="12" style="fill:#728dbe;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="68" r="8" style="fill:#728dbe;paint-order:stroke fill markers"/>
+ <path d="m96 60a8 8 0 0 0-7.7383 6.0098 8 8 0 0 0 7.7383 5.9902 8 8 0 0 0 7.7383-6.0098 8 8 0 0 0-7.7383-5.9902z" style="fill:#54688c;paint-order:stroke fill markers"/>
+ <path d="m96 20a12 12 0 0 0-11.826 10.039 12 12 0 0 0 0 0.001954 12 12 0 0 0 11.826 9.959 12 12 0 0 0 11.826-10.039 12 12 0 0 0 0-0.001954 12 12 0 0 0-11.826-9.959z" style="fill:#54688c;paint-order:stroke fill markers"/>
+ <ellipse cx="96" cy="26" rx="5.482" ry="4.1115" style="fill:#728dbe;paint-order:stroke fill markers;stroke-width:.68524"/>
+ <ellipse cx="95.994" cy="63.416" rx="3.3641" ry="2.3274" style="fill:#728dbe;paint-order:stroke fill markers;stroke-width:.68129"/>
+</svg>

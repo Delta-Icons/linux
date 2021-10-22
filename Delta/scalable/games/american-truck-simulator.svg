@@ -1,0 +1,35 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <rect transform="scale(-1,1)" x="-148" y="20" width="8" height="52" ry="2.8495" style="fill:#979797;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect transform="scale(-1,1)" x="-152" y="60" width="20" height="48" ry="4" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect transform="scale(-1,1)" x="-152" y="56" width="12" height="20" ry="2.5618" style="fill:#83868c;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect transform="scale(-1,1)" x="-148" y="60" width="20" height="2" ry="1" style="fill:#979797;paint-order:stroke fill markers;stroke-width:2.8284"/>
+ <rect transform="scale(-1,1)" x="-148" y="70" width="20" height="2" ry="1" style="fill:#979797;paint-order:stroke fill markers;stroke-width:2.8284"/>
+ <rect x="44" y="20" width="8" height="52" ry="2.8495" style="fill:#979797;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="40" y="60" width="20" height="48" ry="4" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="40" y="56" width="12" height="20" ry="2.5618" style="fill:#83868c;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="44" y="60" width="20" height="2" ry="1" style="fill:#979797;paint-order:stroke fill markers;stroke-width:2.8284"/>
+ <rect x="44" y="70" width="20" height="2" ry="1" style="fill:#979797;paint-order:stroke fill markers;stroke-width:2.8284"/>
+ <rect x="56" y="40" width="80" height="68" ry="6" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="98" y="48" width="34" height="28" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:3.8568"/>
+ <rect x="60" y="48" width="34" height="28" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:3.8568"/>
+ <rect x="20" y="128" width="152" height="24" rx="8" ry="12" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="28" y="124" width="24" height="48" ry="8" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="140" y="124" width="24" height="48" ry="8" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="24" y="100" width="144" height="48" ry="8" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="56" y="76" width="80" height="72" ry="8" style="fill:#ccc;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m24 136v20l20 4h104l20-4v-20z" style="fill:#ccc;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="82" y="140" width="28" height="8" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="66" y="148" width="8" height="8" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="118" y="148" width="8" height="8" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="64" y="84" width="64" height="44" style="fill:#83868c;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="28" y="112" width="24" height="12" ry="6" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="140" y="112" width="24" height="12" ry="6" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="148" cy="96" r="4" style="fill:#f8c18c;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="40" cy="96" r="4" style="fill:#f8c18c;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="56" y="40" width="80" height="12" ry="4" style="fill:#d2d2d2;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m68 36a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm20 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm8 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm8 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm20 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="78" cy="36" r="4" style="fill:#d2d2d2;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="114" cy="36" r="4" style="fill:#d2d2d2;paint-order:stroke fill markers;stroke-width:4"/>
+</svg>

@@ -1,6 +1,7 @@
 <svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
  <rect x="25" y="25" width="142" height="142" rx="10" style="fill-rule:evenodd;fill:#9abeff;stroke-width:10;stroke:#fff"/>
- <rect x="25" y="25" width="142" height="142" rx="10" style="fill-rule:evenodd;fill:#9abeff;stroke-width:10;stroke:#fff"/>
+ <path d="m20 162c0 5.5242 4.477 10.003 10.003 10.003h131.99c5.5242 0 10.003-4.477 10.003-10.003v-131.99c0-5.5242-4.477-10.003-10.003-10.003h-131.99c-5.5242 0-10.003 4.477-10.003 10.003z" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="30" y="30" width="132" height="132" style="fill:#9abeff;paint-order:stroke fill markers"/>
  <path d="m81.016 80 33.016 46h-66.033zm35.462 15.979 21.522 30.021-17.968-1e-3 -2.0121-2.8036-10.534-14.675z" style="fill-rule:evenodd;fill:#fff"/>
  <rect x="30" y="126" width="132" height="36" style="fill-rule:evenodd;fill:#98dc9a"/>
  <circle cx="128" cy="61" r="13" style="fill-rule:evenodd;fill:#f9de81"/>

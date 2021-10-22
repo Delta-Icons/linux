@@ -1,0 +1,12 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m96 48c52 0 80 56 80 56s-16 8-28 16c-15.884 10.589-32.91 24-52 24-19.09 0-36.116-13.411-52-24-12-8-28-16-28-16s24-56 80-56z" style="fill:#73ada4"/>
+ <circle cx="96" cy="96" r="56" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="96" r="36" style="fill:#96dfd3"/>
+ <path d="m96 40c-61.333 0-87.354 60.85-87.354 60.85a8.0008 8.0008 0 0 0 3.7754 10.307s15.823 7.9551 27.141 15.5c15.486 10.324 33.601 25.344 56.438 25.344 22.837 0 40.952-15.02 56.438-25.344 11.317-7.5449 27.141-15.5 27.141-15.5a8.0008 8.0008 0 0 0 3.5781-10.734s-29.413-60.422-87.156-60.422zm0 16c36.613 0 60.24 31.384 68.777 44.857-5.875 3.1242-13.543 7.3718-21.215 12.486-16.283 10.855-32.219 22.656-47.562 22.656-15.344 0-31.28-11.801-47.562-22.656-7.9496-5.2998-15.788-9.612-21.639-12.709 7.3552-13.217 28.861-44.635 69.201-44.635z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#96dfd3;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <circle cx="96" cy="96" r="23.845" style="fill:#73ada4"/>
+ <circle cx="96" cy="96" r="16" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <path d="m96 83.994a12.006 12.006 0 0 0-12.006 12.006 12.006 12.006 0 0 0 12.006 12.006 12.006 12.006 0 0 0 12.006-12.006 12.006 12.006 0 0 0-12.006-12.006zm0 2.373a9.6321 9.6321 0 0 1 9.6328 9.6328 9.6321 9.6321 0 0 1-9.6328 9.6328 9.6321 9.6321 0 0 1-9.6328-9.6328 9.6321 9.6321 0 0 1 9.6328-9.6328z" style="fill:#e0f4e0;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="96" r="5.626" style="fill:#fff;paint-order:stroke fill markers"/>
+ <rect x="76" y="94" width="40" height="4" ry="2" style="fill:#fff;paint-order:stroke fill markers"/>
+ <rect transform="rotate(90)" x="76" y="-98" width="40" height="4" ry="2" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

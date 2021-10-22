@@ -1,0 +1,8 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="32" y="32" width="127.5" height="152" ry="10" style="fill:#d3b69a;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m96 8a16 16 0 0 0-15.469 12h-28.531c-4.432 0-8 3.568-8 8v4c0 4.432 3.568 8 8 8h88c4.432 0 8-3.568 8-8v-4c0-4.432-3.568-8-8-8h-28.523a16 16 0 0 0-15.477-12zm0 8c4.432 0 8 3.568 8 8s-3.568 8-8 8-8-3.568-8-8 3.568-8 8-8z" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="44" y="32" width="104" height="8" style="fill:#b1b5bd;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="44" y="36" width="104" height="8" style="fill:#83868c;paint-order:stroke fill markers;stroke-width:5.6569"/>
+ <rect x="44" y="44" width="104" height="128" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m56 56v4h80v-4h-80zm0 12v4h56v-4h-56zm0 12v4h68v-4h-68zm0 24v4h80v-4h-80zm0 12v4h60v-4h-60zm0 12v4h28v-4h-28zm0 12v4h40v-4h-40zm0 12v4h20v-4h-20z" style="fill:#d8d8d8;paint-order:stroke fill markers;stroke-width:5.164"/>
+</svg>

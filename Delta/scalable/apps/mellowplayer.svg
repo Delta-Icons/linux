@@ -1,0 +1,9 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="128" cy="96" r="52" style="fill:#9abeff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle cx="68" cy="60" r="52" style="fill:#9abeff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle cx="68" cy="132" r="52" style="fill:#9abeff;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle cx="104" cy="64" r="32" style="fill:#ececec;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle cx="48" cy="96" r="32" style="fill:#ececec;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <circle cx="104" cy="128" r="32" style="fill:#ececec;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round"/>
+ <path d="m52.041 36c-2.225-0.022592-4.0409 1.7748-4.041 4v112c8e-5 3.0562 3.2885 4.9836 5.9551 3.4902l100-56c2.7274-1.5276 2.7274-5.4529 0-6.9805l-100-56c-0.5852-0.32769-1.2434-0.50298-1.9141-0.50977z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#f9de81;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

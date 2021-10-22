@@ -1,0 +1,8 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <path d="m96 8a88 88 0 0 0-88 88 88 88 0 0 0 88 88 88 88 0 0 0 3.8516-0.1328l-0.10936-0.0548 0.18748 0.0468a88 88 0 0 0 11.734-1.2969l6.7109-2.3594 23.188-15.047 22.367-39.055-67.523-55.32z" style="fill:#ececec;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m96 8v0.1328a43.932 43.932 0 0 0-43.93 43.938 43.932 43.932 0 0 0 43.93 43.93v0.1328a43.932 43.932 0 0 1 43.93 43.938 43.932 43.932 0 0 1-40.188 43.742 88 88 0 0 0 84.258-87.812 88 88 0 0 0-88-88z" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="96" cy="52" r="20" style="fill:#ececec;paint-order:stroke fill markers;stroke-width:4"/>
+ <circle cx="96" cy="140" r="20" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+</svg>

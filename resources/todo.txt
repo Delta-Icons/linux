@@ -1,13 +1,13 @@
 Filesystem
-	folder
+	/folder
 	folder-remote
 	network-server
-	network-workgroup
-	start-here
-	user-bookmarks
-	user-desktop
-	user-home
-	user-trash
+	/network-workgroup
+	/start-here
+	/user-bookmarks
+	/user-desktop
+	/user-home
+	/user-trash
 
 Devices
 	audio-card
@@ -17,7 +17,7 @@ Devices
 	camera-video
 	camera-web
 	computer
-	drive-harddisk
+	/drive-harddisk
 	drive-optical
 	drive-removable-media
 	input-gaming
@@ -26,7 +26,7 @@ Devices
 	input-tablet
 	media-flash
 	media-floppy
-	media-optical
+	/media-optical
 	media-tape
 	modem
 	multimedia-player
@@ -34,8 +34,8 @@ Devices
 	network-wireless
 	pda
 	/phone
-	printer
-	scanner
+	/printer
+	/scanner
 	video-display
 
 MimeTypes
@@ -43,41 +43,41 @@ MimeTypes
 
 Applications
 	/accessories-calculator
-	accessories-character-map
-	accessories-dictionary
-	accessories-text-editor
+	/accessories-character-map
+	/accessories-dictionary
+	/accessories-text-editor
 	help-browser
-	multimedia-volume-control
-	preferences-desktop-accessibility
-	preferences-desktop-font
-	^-keyboard
-	^-locale
+	/multimedia-volume-control
+	/preferences-desktop-accessibility
+	/preferences-desktop-font
+	/^-keyboard
+	/^-locale
 	^-multimedia
-	^-screensaver
+	/^-screensaver
 	-theme
-	-wallpaper
-	system-file-manager
-	system-software-install
-	system-software-update
-	utilities-system-monitor
+	/-wallpaper
+	/system-file-manager
+	/system-software-install
+	/system-software-update
+	/utilities-system-monitor
 	/utilities-terminal
 
 Applications (extra)
 	/firefox
 	/steam
-	#spotify
-	franz
-	vs code
-	#discord
+	/spotify
+	/franz
+	/vs code
+	/discord
 	/amazon
-	accessories-screenshot
+	/accessories-screenshot
 	/accessories-camera
-	blender
-	flux
+	/blender
+	/flux
 	/tweaks
-	libreoffice suite
-	dconf
+	/libreoffice suite
+	/dconf
 	variety
-	wine
+	/wine
 	/chrome
 	/gnome-sudoku

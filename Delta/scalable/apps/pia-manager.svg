@@ -1,0 +1,11 @@
+<svg width="192" height="192" fill="none" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m97.5 10c-29.547 0-53.5 23.953-53.5 53.5v11.962c-12.523 2.3448-22 13.335-22 26.538v33c0 6.075 4.9249 11 11 11h11v31c0 2.761 2.2386 5 5 5h24.934c1.3369 0 2.6182-0.535 3.5577-1.487l12.788-12.95c0.5636-0.571 1.3324-0.892 2.1346-0.892h9.8102c0.798 0 1.563 0.318 2.125 0.883l12.919 12.974c0.939 0.942 2.214 1.472 3.544 1.472h25.187c2.761 0 5-2.239 5-5v-31h12c6.075 0 11-4.925 11-11v-33c0-13.553-9.985-24.773-23-26.706v-11.794c0-29.547-23.953-53.5-53.5-53.5z" clip-rule="evenodd" fill="#98DC9A" fill-rule="evenodd"/>
+ <path d="m97.5 103.5c-2.8223 0-5.6222 0.80625-7.8066 2.3711-2.1844 1.5648-3.7524 4.0215-3.6836 6.9629l2.998-0.0703c-0.044-1.8812 0.85636-3.3246 2.4316-4.4531 1.5753-1.1285 3.8267-1.8106 6.0605-1.8106 2.161 0 4.3339 0.77957 5.8789 1.9668 1.545 1.1872 2.4096 2.687 2.3789 4.2031l3 0.0605c0.0542-2.6813-1.4505-5.0286-3.5508-6.6426-2.1002-1.6139-4.8481-2.5878-7.707-2.5878z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#fff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m97 31.67c39.584 0.1764 35 45.33 35 45.33h-70s-4.5836-45.507 35-45.33z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
+ <path d="m149.5 145.63v-56.202" stroke="#71A372" stroke-width="3"/>
+ <path d="m45.5 145.63v-56.202" stroke="#71A372" stroke-width="3"/>
+ <rect x="44" y="142" width="107" height="4" fill="#fff"/>
+ <rect x="86" y="115" width="23" height="18" fill="#fff"/>
+ <path d="m80 66c3.3137 0 6-2.6863 6-6s-2.6863-6-6-6-6 2.6863-6 6 2.6863 6 6 6z" clip-rule="evenodd" fill="#56595B" fill-rule="evenodd"/>
+ <path d="m114 66c3.314 0 6-2.6863 6-6s-2.686-6-6-6-6 2.6863-6 6 2.686 6 6 6z" clip-rule="evenodd" fill="#56595B" fill-rule="evenodd"/>
+</svg>

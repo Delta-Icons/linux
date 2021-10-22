@@ -1,0 +1,12 @@
+<svg id="SVGRoot" width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <polygon transform="matrix(.65536 0 0 .65536 46.61 -33.586)" points="66.475 105.04 35.059 105.04 35.69 37.516 69.881 37.516 76 40.665 83.373 38.148 117.17 37.516 116.7 104.31 82.929 105.41 76 108.55" style="fill-opacity:0"/>
+ <circle cx="1.5" cy="8.5" r="1.5" style="fill:#d3b69a;paint-order:stroke fill markers"/>
+ <circle cx="13.5" cy="8.5" r="1.5" style="fill:#f9de81;paint-order:stroke fill markers"/>
+ <circle cx="7.5" cy="2.5" r="1.5" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <circle cx="7.5" cy="8.5" r="1.5" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <circle cx="4.5" cy="5.5" r="1.5" style="fill:#98dc9a;paint-order:stroke fill markers"/>
+ <circle cx="10.5" cy="5.5" r="1.5" style="fill:#f8c18c;paint-order:stroke fill markers"/>
+ <circle cx="4.5" cy="11.5" r="1.5" style="fill:#96dfd3;paint-order:stroke fill markers"/>
+ <circle cx="7.5" cy="14.5" r="1.5" style="fill:#b1b5bd;paint-order:stroke fill markers"/>
+ <circle cx="10.5" cy="11.5" r="1.5" style="fill:#bd9aff;paint-order:stroke fill markers"/>
+</svg>

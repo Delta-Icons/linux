@@ -1,0 +1,5 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m44 8c-6.648 0-12 5.352-12 12v36 116c0 6.648 5.352 12 12 12h36 32c26.592 0 48-21.408 48-48 0-16.737-8.4856-31.416-21.402-40 12.917-8.5845 21.402-23.263 21.402-40 0-26.592-21.408-48-48-48h-32-36z" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <path d="m64 140v-88h64l-4 24h-28v16h24l-4 24h-20v24z" style="fill:#fff"/>
+ <path d="m64 52v88h12v-80h50.666l1.334-8h-64z" style="fill:#e0f4e0"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="32" y="32" width="128" height="128" ry="12" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <rect transform="rotate(44.331)" x="71.755" y="-62.415" width="128" height="128" ry="12" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="96" r="48" style="fill:#4a4a4a;paint-order:stroke fill markers"/>
+ <path d="m96 48v96a48 48 0 0 0 48-48 48 48 0 0 0-48-48z" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

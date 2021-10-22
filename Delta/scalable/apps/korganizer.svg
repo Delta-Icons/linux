@@ -1,0 +1,20 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+ <rect x="20" y="32" width="152" height="140" ry="10" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m30 32c-5.54 0-10 4.46-10 10v14h152v-14c0-5.54-4.46-10-10-10z" style="fill:#98dc9a;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="40" y="20" width="16" height="20" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="136" y="20" width="16" height="20" ry="4" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="76" y="42" width="40" height="4" ry="1.5593" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/>
+ <path d="m20 56v24h52v-24zm100 92v24h42c5.54 0 10-4.46 10-10v-14z" style="fill:#d8d8d8;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="80" y="72" width="24" height="4" ry="1.7258" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="136" y="72" width="24" height="4" ry="1.7258" style="fill:#9abeff;paint-order:stroke fill markers;stroke-width:3.6515"/>
+ <rect x="52" y="100" width="24" height="4" ry="1.5685" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="80" y="100" width="24" height="4" ry="1.5685" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="108" y="100" width="24" height="4" ry="1.5685" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="136" y="100" width="24" height="4" ry="1.5685" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+ <rect x="108" y="136" width="24" height="4" ry="1.7258" style="fill:#9abeff;paint-order:stroke fill markers;stroke-width:3.6515"/>
+ <rect x="28" y="124" width="24" height="4" ry="1.7258" style="fill:#9abeff;paint-order:stroke fill markers;stroke-width:3.6515"/>
+ <rect x="80" y="136" width="24" height="4" ry="1.7258" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4"/>
+</svg>

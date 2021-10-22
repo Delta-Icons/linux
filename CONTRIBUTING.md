@@ -4,8 +4,13 @@
 	- `index.theme` outlines the file structure and properties of the icons. If you are adding additional folders, make sure to reflect the changes in this file.
 * Place SVGs in the correct place in the file structure (e.g. application icons under `applications`, MIME type icons under `mimetypes`).
 
+### For Inkscape Users
 
-### Resources for Contributions
+* When saving the SVG, save it as an Optimized SVG to reduce hard disk space.
+* If you use the text tool on the icon, it is strongly recommended to convert the text using `Object to Path`, this is so it can display correctly in the DEs (Desktop Environments).
+* Clipping and Masking can't be used as it will not be correctly displayed in DEs and other applications, instead use `Union, Difference, Intersection, etc.`
+
+## Resources for Contributions
 
 
 (Right-Click &rarr; Save as)
@@ -21,5 +26,5 @@
 <a href="https://github.com/Delta-Icons/Linux/raw/master/resources/template/template_tutorial.svg"><img src="https://github.com/Delta-Icons/Linux/blob/master/resources/button_template-tutorial.png" alt="Icon Template Tutorial for Delta" style="width:412px;height:128px;"></a>
 
 
-### Font: 
+## Font 
 [Now](https://www.1001fonts.com/now-font.html) (Use Now Alt from the same family for alternate lowercase "a") (Make sure to convert font to path on SVG before saving.)

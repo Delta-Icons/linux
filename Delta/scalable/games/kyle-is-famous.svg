@@ -1,0 +1,13 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="144" cy="72" r="24" style="fill:#ececec;paint-order:stroke fill markers"/>
+ <circle cx="48" cy="72" r="24" style="fill:#ececec;paint-order:stroke fill markers"/>
+ <circle cx="60" cy="44" r="24" style="fill:#ececec;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="32" r="24" style="fill:#ececec;paint-order:stroke fill markers"/>
+ <circle cx="132" cy="48" r="24" style="fill:#ececec;paint-order:stroke fill markers"/>
+ <path d="m96 44-44 28v64l44 44 44-44v-64l-44-28z" style="fill:#ececec;stroke-linecap:round;stroke-linejoin:round;stroke-width:8;stroke:#ececec"/>
+ <path d="m96 40.008v143.99c1.0235 0 2.0471-0.39114 2.8281-1.1719l44-44c0.75015-0.75004 1.1717-1.7673 1.1719-2.8281v-64c2.5e-4 -1.3675-0.69808-2.6404-1.8516-3.375l-44-28c-0.6427-0.40894-1.3885-0.61727-2.1484-0.61719z" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <path d="m96 128v-4s1.7599-3.1692 4.7217-3.1347c6.9133 0.0804 15.528 9.2328 15.528 9.2328s-2.7543 8.8442-20.25 9.9019v-9.5738s2.4696 0.0964 12.276-0.74779c-10.127-1.6784-12.276-1.6784-12.276-1.6784z" style="fill:#ececec"/>
+ <path d="m96 76 12 36h-12z" style="fill:#ececec"/>
+ <path d="m96 128v-4s-1.7599-3.1692-4.7217-3.1347c-6.9133 0.0804-15.528 9.2328-15.528 9.2328s2.7543 8.8442 20.25 9.9019v-9.5738s-2.4696 0.0964-12.276-0.74779c10.127-1.6784 12.276-1.6784 12.276-1.6784z" style="fill:#56595b"/>
+ <path d="m96 76-12 36h12z" style="fill:#56595b"/>
+</svg>

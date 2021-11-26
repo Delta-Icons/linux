@@ -1,0 +1,10 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m116 8a36 36 0 0 0-31.434 18.479 30 30 0 0 0-18.566-6.4785 30 30 0 0 0-30 30 30 30 0 0 0 0.93164 7.3027c-7.8221 5.4036-12.932 14.43-12.932 24.697 0 15.947 12.32 28.904 28 29.928v20.072h88v-20.072c15.68-1.0234 28-13.981 28-29.928 0-12.197-7.2103-22.643-17.615-27.342a36 36 0 0 0 1.6152-10.658 36 36 0 0 0-36-36z" style="fill:#fcecdc;paint-order:stroke fill markers"/>
+ <path d="m48 96c-6.648 0-12 5.352-12 12v64c0 6.648 5.352 12 12 12h96c6.648 0 12-5.352 12-12v-64c0-6.648-5.352-12-12-12s-11.698 5.3589-12 12v8h-24v-8c0-6.648-5.352-12-12-12s-12 5.352-12 12v8h-24v-8c0-6.648-5.352-12-12-12z" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <path d="m72 96c-6.648 0-12 6.244-12 14v60c0 0.68121 0.05494 1.3453 0.13477 2h-0.13477v12h24v-12h-0.13477c0.079824-0.65468 0.13477-1.3188 0.13477-2v-60c0-7.756-5.352-14-12-14zm48 0c-6.648 0-12 5.352-12 12v76h24v-76c0-6.648-5.352-12-12-12z" style="fill:#fff;paint-order:stroke fill markers"/>
+ <path d="m84 80s0-4 4-4h16c4 0 4 4 4 4s0 12-12 12-12-12-12-12z" style="fill:#ff837d"/>
+ <circle cx="68" cy="64" r="12" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <circle cx="124" cy="64" r="12" style="fill:#56595b;paint-order:stroke fill markers"/>
+ <circle cx="72" cy="60" r="4" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="128" cy="60" r="4" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

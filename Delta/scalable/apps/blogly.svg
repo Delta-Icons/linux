@@ -1,0 +1,6 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="96" cy="96" r="88" opacity=".63" style="fill:#f8c18c;opacity:1"/>
+ <path d="m60 112c12-28 16-64 16-64s8 4 20 4 20-4 20-4 4 36 16 64c-20 12-36 40-36 40s-16-28-36-40z" style="fill:#fff"/>
+ <circle cx="96" cy="80" r="4" style="fill:#f8c18c;paint-order:stroke fill markers"/>
+ <rect x="94" y="80" width="4" height="72" style="fill:#f8c18c;paint-order:stroke fill markers"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient846" x1="108" x2="132" y1="76" y2="76" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ececec" offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m160 35.684v84.316h-148.64a88 88 0 0 0 84.641 64 88 88 0 0 0 88-88 88 88 0 0 0-24-60.316z" style="fill:#728dbe"/>
+ <path d="m160 35.773v29.375c0.1651 0.48785 0.30675 0.95842 0.4043 1.3965 0.6646 3.3284 0.99609 8.1545 0.99609 14.479 0 6.3237 0.16964 10.983 0.50195 13.979 0.6646 6.9895 4.4924 14.477 11.48 22.467l7.6406 0.80273a88 88 0 0 0 2.9766-22.271 88 88 0 0 0-24-60.227zm-89.727 84.227c0.25517 0.15381 0.51047 0.319 0.76562 0.46484 5.3254 3.3279 7.4886 6.9875 6.4902 10.982-0.99861 4.9918-2.33 8.9868-3.9941 11.982-0.33303 0.66462 0.16494 2.5785 1.4961 5.7402 1.3314 3.1642 2.3305 5.0776 2.9961 5.7422 2.3298 2.331 6.1571 5.8248 11.482 10.484 1.6642 1.3316 2.498 2.7463 2.498 4.2441 1e-6 1.4978-0.33442 2.9125-1 4.2442-0.66558 1.3316-1.5811 3.1617-2.7461 5.4902-0.85677 1.7143-1.4329 2.8656-2.0195 4.0391a88 88 0 0 0 9.7578 0.58594 88 88 0 0 0 18.334-2.0391c2.5417-5.3905 5.7459-9.5871 9.625-12.57 3.9949-2.6633 7.323-6.824 9.9863-12.48 0.3323-0.99935 2.6591-4.8286 6.9863-11.484 1.6639-2.3285 0.6685-5.2398-2.9941-8.7363-3.6602-3.494-6.9888-5.7409-9.9844-6.7402-3.6553-1.566-9.287-4.9003-16.834-9.9492h-40.846z" style="clip-rule:evenodd;fill-rule:evenodd;fill:#98dc9a;stroke-width:2.4434"/>
+ <path d="m168 112v8s0 8-8 8h-40c-12 0-12 12-12 12v-28z" style="fill:#ccc"/>
+ <path d="m108 32s0-16 16-16h36s8 0 8 8v88c0 8-8 8-8 8h-36c-16 0-16 12-16 12z" style="fill:url(#linearGradient846)"/>
+ <path d="m20 36c-6.648 0-12 5.352-12 12v80c0 6.648 5.352 12 12 12h76 12v-12-80-12h-12-76z" style="fill:#d8d8d8;paint-order:stroke fill markers"/>
+ <path d="m20 32c-6.648 0-12 5.352-12 12v76c0 6.648 5.352 12 12 12h76 12v-12-76-12h-12-76z" style="fill:#fff;paint-order:stroke fill markers"/>
+ <rect x="24" y="48" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="56" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="64" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="96" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="104" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="112" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="72" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="80" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <rect x="24" y="88" width="68" height="4" ry="2" style="fill:#ccc;paint-order:stroke fill markers"/>
+</svg>

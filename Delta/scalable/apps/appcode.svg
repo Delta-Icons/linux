@@ -1,0 +1,8 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m60.896 20 15.104 60-32 64 16 24 28 4h74.064c5.5038 0 9.9356-4.4318 9.9356-9.9356v-74.064l-4-16-44-12 8.0801-40h-71.184z" style="fill:#728dbe"/>
+ <path d="m132.08 20-13.941 22.387 13.43 31.475s8.4374 0.91853 17.633 2.3438c4.9606 0.76886 9.6333 1.1355 12.584 1.8535 9.6138 2.3395 10.072 11.121 10.072 11.121l0.14258-0.43359v-58.811c0-5.5038-4.4318-9.9355-9.9356-9.9355h-29.984z" style="fill:#9abeff"/>
+ <path d="m29.936 20c-5.5038 0-9.9355 4.4318-9.9355 9.9355v132.13c0 5.5038 4.4318 9.9356 9.9355 9.9356h61.482c-6.1262-2.4745-15.726-6.2434-27.615-10.418-5.745-2.0172-7.3625-9.6873-7.7168-14.689-2.3197-32.753 27.617-89.706 27.617-89.706l-22.807-37.187z" style="fill:#9abeff"/>
+ <rect x="40" y="40" width="112" height="112" ry="9.0789" style="fill:#4a4a4a;paint-order:stroke fill markers"/>
+ <text x="49.390713" y="102.18638" style="fill:#ffffff;font-family:Now;font-size:64.015px;letter-spacing:0px;line-height:1.25;stroke-width:1.6004;word-spacing:0px" xml:space="preserve"><tspan x="49.390713" y="102.18638" style="fill:#ffffff;font-family:Now;font-weight:900;stroke-width:1.6004">AC</tspan></text>
+ <rect x="54.009" y="125.08" width="44.958" height="11.722" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m29.936 20c-5.5038 0-9.9355 4.4318-9.9355 9.9355v132.13c0 5.5038 4.4318 9.9356 9.9355 9.9356h122.06v-152h-122.06z" style="fill:#728dbe"/>
+ <path d="m130.5 20-61.24 95.688c-0.82388 1.2875-1.2617 2.784-1.2617 4.3125v24c4.42e-4 4.4181 3.5819 7.9996 8 8h56v20h20v-152h-21.498z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#fff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m140 20-64 100v24h64v28h16c4 0 4-4 4-4v-24h8s4 0 4-4v-16c0-4-4-4-4-4h-8v-96s0-4-4-4zm0 40v60h-40z" style="fill:#f8c18c;paint-order:stroke fill markers"/>
+ <path d="m20 56v20h32c2.216 0 4-1.784 4-4v-12c0-2.216-1.784-4-4-4h-32zm0 36v8h68v-8h-68zm0 20v8h56v-8h-56zm0 20v8h56v-8h-56z" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

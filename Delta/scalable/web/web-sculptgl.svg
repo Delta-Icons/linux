@@ -1,0 +1,13 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m91.904 8.1445a88 88 0 0 0-83.904 87.855 88 88 0 0 0 50.037 79.27l46.043-57.553-12.176-109.57z" style="fill:#b1b5bd"/>
+ <ellipse cx="75.376" cy="89.026" rx="47.184" ry="39.172" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <path d="m96 8a88 88 0 0 0-6.1719 0.21875c-4.7179 4.8704-13.95 14.721-18.064 21.367-2.475 3.9985-4.6634 8.3744-5.4551 13.01-1.2032 7.0448 3.2002 14.526 1.2598 21.404-3.0556 10.831-13.22 18.231-19.307 27.697-6.2413 9.7066-16.678 18.296-17.625 29.797-0.6032 7.3272 3.6936 14.586 7.9727 20.564 5.9527 8.3165 21.284 9.7406 23.502 19.725 0.83704 3.7679-2.1323 9.2139-4.7695 13.148a88 88 0 0 0 38.658 9.0684 88 88 0 0 0 88-88 88 88 0 0 0-88-88z" style="fill:#8e6f60"/>
+ <path d="m75.375 49.855a47.184 39.172 0 0 0-8.7012 0.69531c0.82517 4.5492 2.1163 9.1186 0.89453 13.449-3.0556 10.831-13.22 18.231-19.307 27.697-3.8597 6.0027-9.3183 11.581-13.15 17.682a47.184 39.172 0 0 0 40.264 18.818 47.184 39.172 0 0 0 47.184-39.172 47.184 39.172 0 0 0-47.184-39.17z" style="fill:#d3b69a;paint-order:stroke fill markers"/>
+ <path d="m83.515 92.957s15.013-9.3857 16.787-16.787c1.8667-7.7875-9.0659-10.04-9.2328-18.046-0.15399-7.3849 9.2328-20.144 9.2328-20.144" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <path d="m57.076 121.08s6.5831-8.2198 11.331-8.8132c4.8485-0.60587 8.5642 6.3256 13.43 5.8754 16.558-1.5321 31.056-19.305 31.056-19.305" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <path d="m118.77 71.973s1.4276-9.4971 1.259-14.269c-0.12508-3.5396-1.6787-10.492-1.6787-10.492" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <path d="m114.15 123.17s7.637-9.7214 9.2328-15.528c2.1132-7.6887-1.1736-16.034 0-23.921 0.99002-6.6532 5.8754-19.305 5.8754-19.305" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <path d="m34.413 74.072s6.7538-5.7391 10.912-6.7148c4.5129-1.059 13.849 1.259 13.849 1.259" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <path d="m50.514 91.944s15.689-16.991 18.885-27.698c2.2014-7.3737-2.5348-15.683-0.41967-23.082 2.4743-8.6554 14.689-22.662 14.689-22.662" style="fill:none;opacity:.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000"/>
+ <ellipse cx="43.029" cy="78.64" rx="3.5611" ry="4.4513" style="fill:#ececec;paint-order:stroke fill markers"/>
+</svg>

@@ -35,5 +35,6 @@ Please refer to [CONTRIBUTING.md](https://github.com/Delta-Icons/Linux/blob/mast
 
 ## Requesting missing icons
 * If you wish to request a missing icon to be added, please open a Github issue for this. This icon pack is still in development so any help in identifying future improvements is appreciated.
+* Be sure to include the name of the icon(s) found in the .desktop file, found under the `Icon=` line. It is recommended for an image of the icon (or icons) be included in the issue as well.
 
 Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

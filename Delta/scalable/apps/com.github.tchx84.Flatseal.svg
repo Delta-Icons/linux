@@ -1,0 +1,8 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m96 28a76 76 0 0 0-76 76 76 76 0 0 0 76 76 76 76 0 0 0 76-76 76 76 0 0 0-76-76zm0 44a36 36 0 0 1 36 36 36 36 0 0 1-36 36 36 36 0 0 1-36-36 36 36 0 0 1 36-36z" style="fill:#a0a5af;paint-order:stroke fill markers;stroke-width:8"/>
+ <path d="m96 28v44a36 36 0 0 1 36 36 36 36 0 0 1-36 36v36a76 76 0 0 0 76-76 76 76 0 0 0-76-76z" style="fill:#83868c;paint-order:stroke fill markers;stroke-width:8"/>
+ <path d="m96 164h76l-4 4 4 4-4 4 4 4h-76z" style="fill:#a0a5af"/>
+ <path d="m68 100s8-20 28-20 28 20 28 20l4-24-32-20-32 20z" style="fill:#8e6f60"/>
+ <path d="m96 48a44 44 0 0 0-44 44 44 44 0 0 0 44 44 44 44 0 0 0 44-44 44 44 0 0 0-44-44zm0 16a28 28 0 0 1 28 28 28 28 0 0 1-28 28 28 28 0 0 1-28-28 28 28 0 0 1 28-28z" style="fill:#d3b69a;paint-order:stroke fill markers;stroke-width:8"/>
+ <path d="m96 12a76 76 0 0 0-76 76 76 76 0 0 0 76 76 76 76 0 0 0 76-76 76 76 0 0 0-76-76zm0 44a36 36 0 0 1 36 36 36 36 0 0 1-36 36 36 36 0 0 1-36-36 36 36 0 0 1 36-36z" style="fill:#d2d2d2;paint-order:stroke fill markers;stroke-width:8"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m36 36v8 104 8h112 8v-8-104-8h-8-104-8zm8 8h104v104h-104v-104z" style="fill:#d8d8d8;paint-order:stroke fill markers"/>
+ <path d="m42.828 37.172-5.6562 5.6562 32 32 5.6562-5.6562-32-32zm106.34 0-32 32 5.6562 5.6562 32-32-5.6562-5.6562zm-80 80-32 32 5.6562 5.6562 32-32-5.6562-5.6562zm53.656 0-5.6562 5.6562 32 32 5.6562-5.6562-32-32z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#d8d8d8;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <circle cx="40" cy="40" r="20" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="152" cy="40" r="20" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="40" cy="152" r="20" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="152" cy="152" r="20" style="fill:#fff;paint-order:stroke fill markers"/>
+ <path d="m68 68v8 40 8h8 48v-8-48h-48-8zm8 8h40v40h-40v-40z" style="fill:#d8d8d8;paint-order:stroke fill markers"/>
+ <circle cx="72" cy="72" r="12" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="120" cy="72" r="12" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="72" cy="120" r="12" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="120" cy="120" r="12" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

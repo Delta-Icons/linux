@@ -1,0 +1,9 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="20" y="48" width="152" height="100" ry="8" style="fill:#54688c;paint-order:stroke fill markers;stroke-width:1.0983"/>
+ <rect x="36" y="32" width="120" height="132" ry="8" style="fill:#54688c;paint-order:stroke fill markers"/>
+ <path d="m64.318 56.161v15.935h-15.935v47.805h15.935v15.935h15.935l15.935-31.87-15.935-47.805z" style="fill:#9abeff;paint-order:stroke fill markers;stroke-width:4.454"/>
+ <path d="m112.12 56.161-15.935 31.87 15.935 47.805h15.935v-15.935h15.935v-47.805h-15.935v-15.935z" style="fill:#ff837d;paint-order:stroke fill markers;stroke-width:4.454"/>
+ <rect x="80.254" y="56.161" width="31.87" height="79.676" style="fill:#98dc9a;paint-order:stroke fill markers;stroke-width:4.454"/>
+ <rect x="80.254" y="72.096" width="31.87" height="47.805" style="fill:#56595b;paint-order:stroke fill markers;stroke-width:3.9838"/>
+ <path d="m64.318 72.096v31.87h15.935v-15.935h15.935v-15.935zm47.805 31.87v15.935h15.935v-15.935z" style="fill:#fff;paint-order:stroke fill markers;stroke-width:3.9838"/>
+</svg>

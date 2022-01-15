@@ -1,0 +1,5 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <path d="m24 33c-8.2235 0-15 6.7765-15 15v96c0 8.2235 6.7765 15 15 15h144c8.2235 0 15-6.7765 15-15v-96c0-8.2235-6.7765-15-15-15z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill-rule:evenodd;fill:#b1b5bd;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m24 43c-2.8565 0-5 2.1435-5 5v96c0 2.8565 2.1435 5 5 5h144c2.8565 0 5-2.1435 5-5v-96c0-2.8565-2.1435-5-5-5h-144z" style="fill-rule:evenodd;fill:#ba6561"/>
+ <polyline points="46 83 64.656 97.641 46 112.17" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:10;stroke:#ff837d"/>
+</svg>

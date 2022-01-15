@@ -1,0 +1,6 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="rotate(90)" x="32" y="-184" width="128" height="176" rx="10.079" opacity=".63" stroke-width="1.0067" style="fill:#fff;opacity:1"/>
+ <rect x="52" y="76" width="88" height="40" ry="8" style="fill:#9abeff;paint-order:stroke fill markers"/>
+ <circle cx="116" cy="96" r="28" style="fill:#d8d8d8;paint-order:stroke fill markers"/>
+ <circle cx="116" cy="96" r="20" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

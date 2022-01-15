@@ -1,0 +1,9 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="20" y="72" width="152" height="48" style="fill:#ba6561;paint-order:stroke fill markers;stroke-width:1.0274"/>
+ <path d="m20 72h152s-12-56-76-56-76 56-76 56z" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:16;stroke:#ccc"/>
+ <path d="m20 120h152s-12 56-76 56-76-56-76-56z" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:16;stroke:#ccc"/>
+ <circle cx="48" cy="96" r="8" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <circle cx="80" cy="96" r="8" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <circle cx="112" cy="96" r="8" style="fill:#ff837d;paint-order:stroke fill markers"/>
+ <circle cx="144" cy="96" r="8" style="fill:#ff837d;paint-order:stroke fill markers"/>
+</svg>

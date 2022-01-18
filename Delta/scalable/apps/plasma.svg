@@ -1,0 +1,7 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="96" cy="96" r="88" opacity=".63" style="fill:#83868c;opacity:1"/>
+ <circle cx="90" cy="118" r="10" style="fill:#fff;paint-order:stroke fill markers"/>
+ <circle cx="72" cy="92" r="8" style="fill:#fff;paint-order:stroke fill markers"/>
+ <path d="m108 68 16 16-16 16" style="fill:none;stroke-width:10;stroke:#fff"/>
+ <circle cx="86" cy="70" r="6" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

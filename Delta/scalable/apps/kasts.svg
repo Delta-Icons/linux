@@ -1,0 +1,8 @@
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <rect x="20" y="20" width="152" height="152" rx="9.9346" opacity=".63" style="fill:#728dbe;opacity:1"/>
+ <path d="m68.33 20a52 52 0 0 0-24.33 44 52 52 0 0 0 52 52 52 52 0 0 0 52-52 52 52 0 0 0-24.404-44h-55.266z" style="fill:#9abeff;opacity:.25;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="64" r="40" style="fill:#9abeff;opacity:.25;paint-order:stroke fill markers"/>
+ <circle cx="96" cy="64" r="24" style="fill:#fff;opacity:.25;paint-order:stroke fill markers"/>
+ <path d="m96.154 68.004a4.0004 4.0004 0 0 0-3.9355 2.6914l-34.934 101.3h8.4629l12.102-35.096 36.004 35.096h11.467l-42.564-41.49 23.523-16.43 19.973 57.92h8.4609l-34.932-101.3a4.0004 4.0004 0 0 0-3.627-2.6914zm-0.1543 16.266 7.5684 21.947-19.938 13.924 12.369-35.871z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#e0f4e0;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <circle cx="96" cy="64" r="12" style="fill:#fff;paint-order:stroke fill markers"/>
+</svg>

@@ -1,6 +1,6 @@
 <svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <rect x="20" y="140" width="48" height="32" ry="8" style="fill:#8e6f60;paint-order:stroke fill markers"/>
- <rect x="124" y="140" width="48" height="32" ry="8" style="fill:#8e6f60;paint-order:stroke fill markers"/>
+ <rect x="28" y="140" width="32" height="32" ry="8" style="fill:#83868c;paint-order:stroke fill markers"/>
+ <rect x="132" y="140" width="32" height="32" ry="8" style="fill:#83868c;paint-order:stroke fill markers"/>
  <rect transform="rotate(90)" x="32" y="-184" width="128" height="176" rx="10.079" opacity=".63" stroke-width="1.0067" style="fill:#d6c8ba;opacity:1"/>
- <rect x="28" y="52" width="136" height="88" rx="8" style="fill:#f1e9e0;paint-order:stroke fill markers"/>
+ <rect x="28" y="52" width="136" height="88" rx="4" style="fill:#f1e9e0;paint-order:stroke fill markers"/>
 </svg>

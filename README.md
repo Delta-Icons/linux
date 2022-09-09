@@ -17,7 +17,7 @@
 	- `git clone https://github.com/Delta-Icons/linux.git`
 
 * **Easy way**:
-	There is now a new install script you can try out! Download the Delta Folder, and the "nstall.sh" and run the script in the terminal!
+	- There is now a new install script you can try out! Download the Delta Folder, and the "install.sh" and run the script in the terminal!
 
 * **Harder way**:
 	- Move the `Delta` folder to `/usr/share/icons` (All Users), `~/.local/share/icons` (KDE), or `~/.icons` (GTK).

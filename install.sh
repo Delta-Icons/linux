@@ -1,25 +1,35 @@
 #!/bin/bash
-
-if [ "$DESKTOP_SESSION" = "gnome" ] | [ "$DESKTOP_SESSION" = "xubuntu" ] | [ "$DESKTOP_SESSION" = "budgie-desktop" ] | [ "$DESKTOP_SESSION" = "pantheon" ] ; then
+GTK_Apply () {
         mkdir -p Delta ~/.icons
         mv Delta ~/.icons/
-        gsettings set org.gnome.desktop.interface icon-theme "Delta"
-        echo "installed"
-        read blegh
-        break
-elif [ "$DESKTOP_SESSION" = "plasma" ]; then
+}
+QT_Apply () {
         mkdir -p Delta ~/.local/share/icons
         mv Delta ~/.local/share/icons/
+}
+Common_Apply () {
+        sudo mkdir -p Delta /usr/share/icons
+        sudo mv Delta /usr/share/icons
+}
+End_Program () {
+        read blegh
+        break        
+}
+if [ "$DESKTOP_SESSION" = "gnome" ] | [ "$DESKTOP_SESSION" = "xubuntu" ] | [ "$DESKTOP_SESSION" = "budgie-desktop" ] | [ "$DESKTOP_SESSION" = "pantheon" ] ; then
+        GTK_Apply
+        gsettings set org.gnome.desktop.interface icon-theme "Delta"
+        echo "installed"
+        End_Program
+elif [ "$DESKTOP_SESSION" = "plasma" ]; then
+        QT_Apply
         x=`locate plasma-changeicons`
         $x Delta
         echo "installed"
-        read blegh
-        break
+        End_Program
 elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
         read -p "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed
         if [ "$proceed" = "y" ]; then
-                mkdir -p Delta ~/.local/share/icons
-                mv Delta ~/.local/share/icons/
+                QT_Apply
         elif [ "$proceed" = "n" ]; then
                 break
         fi
@@ -29,18 +39,15 @@ else
         if [ "$whatdo" = "0" ]; then
                 break
         elif [ "$whatdo" = "1" ]; then
-                mkdir -p Delta ~/.icons
-                mv Delta ~/.icons/                
+                GTK_Apply                
                 echo "You should now try and apply the icon pack"
-                read blegh
+                End_Program
         elif [ "$whatdo" = "2" ]; then
-                mkdir -p Delta ~/.local/share/icons
-                mv Delta ~/.local/share/icons/
+                QT_Apply
                 echo "You should now try and apply the icon pack"
-                read blegh
+                End_Program
         elif [ "$whatdo" = "3" ]; then
-                sudo mkdir -p Delta /usr/share/icons
-                sudo mv Delta /usr/share/icons
+                Common_Apply
                 echo "You should now try and apply the icon pack"
                 read blegh
         fi

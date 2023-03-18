@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg10626"
+   sodipodi:docname="vim.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10630" />
+  <sodipodi:namedview
+     id="namedview10628"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.66861979"
+     inkscape:cx="111.42356"
+     inkscape:cy="97.21519"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10626" />
+  <path
+     d="m 95.999864,7.9990137 c -2.5979,1.71e-5 -5.1951,0.97539 -7.1481,2.9282993 l -77.924,77.924 c -3.9058989,3.9059 -3.9052989,10.39 0,14.296997 v 0.002 l 77.924,77.922 c 3.9059,3.9045 10.393,3.9053 14.298996,0 l 77.922,-77.922 c 3.9053,-3.905297 3.9045,-10.391997 0,-14.298997 l -0.002,-0.002 -77.92,-77.922 h -0.002 c -1.953,-1.9526993 -4.550096,-2.9282993 -7.147996,-2.9282993 z"
+     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#73ada4;stroke-width:1.011;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+     id="path10612" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:Now;-inkscape-font-specification:'Now Bold';fill:#96dfd3;stroke:#98dc9a;stroke-width:16;stroke-linecap:round;stroke-linejoin:round"
+     x="226.92357"
+     y="92.943771"
+     id="text287"><tspan
+       sodipodi:role="line"
+       id="tspan285"
+       x="226.92357"
+       y="92.943771" /></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:37.3333px;font-family:Now;-inkscape-font-specification:'Now Bold';fill:#96dfd3;stroke:#98dc9a;stroke-width:16;stroke-linecap:round;stroke-linejoin:round"
+     x="85.547066"
+     y="105.56666"
+     id="text895"><tspan
+       sodipodi:role="line"
+       id="tspan893"
+       x="85.547066"
+       y="105.56666"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aleo;-inkscape-font-specification:'Aleo Bold';fill:none;stroke:none">x</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:94.9403px;font-family:Aleo;-inkscape-font-specification:'Aleo Bold';fill:none;stroke:none;stroke-width:2.54306;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     x="60.971603"
+     y="134.3718"
+     id="text951"><tspan
+       sodipodi:role="line"
+       id="tspan949"
+       x="60.971603"
+       y="134.3718"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aleo;-inkscape-font-specification:'Aleo Bold Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.54306;stroke-dasharray:none;stroke-opacity:1">V</tspan></text>
+</svg>

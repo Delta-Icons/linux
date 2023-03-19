@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg7043"
+   sodipodi:docname="ebook-editor.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7047" />
+  <sodipodi:namedview
+     id="namedview7045"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.7822848"
+     inkscape:cx="106.41716"
+     inkscape:cy="132.9884"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7037" />
+  <g
+     transform="translate(0 -860.36)"
+     id="g7037">
+    <rect
+       x="20"
+       y="880.36"
+       width="152"
+       height="152"
+       rx="10"
+       ry="10"
+       style="fill:#54688c"
+       id="rect7029" />
+    <rect
+       x="23"
+       y="883.36"
+       width="146"
+       height="146"
+       rx="10"
+       ry="10"
+       style="fill:#fff"
+       id="rect7031" />
+    <path
+       d="m20 890.32c0-5.5228 4.4772-9.9544 10-9.9544h132c5.523 0 10 4.4772 10 10v112c0 5.5228-4.477 10-10 10h-124.9s-17.102-1-17.102 11v-133.05z"
+       style="clip-rule:evenodd;fill-rule:evenodd;fill:#728dbe"
+       id="path7033" />
+    <path
+       d="m46 880.36c-1.1045 0-1.9999 0.8956-2 2v76c-0.0043 1.538 1.6566 2.5052 2.9922 1.7424l13.008-7.4376 13.008 7.4376c1.3356 0.7628 2.9964-0.204 2.9922-1.7424v-76c-1.13e-4 -1.1044-0.89548-2-2-2z"
+       style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#ffb0ac;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path7035" />
+    <g
+       id="g16859">
+      <path
+         id="path16227"
+         style="fill:#ff837d"
+         d="M 176.81836 893.70961 L 169.20312 894.53578 L 82.753906 980.98891 L 82.347656 982.66078 A 22.709591 23.398493 0 0 1 94.947266 995.52406 L 96.800781 995.03578 L 183.25391 908.58656 L 183.25391 900.31898 L 176.81836 893.70961 z " />
+      <path
+         id="path16227-7"
+         style="fill:#56595b"
+         d="m 80.77591,989.1234 -2.62891,10.8242 13.46289,-3.5449 c -1.62054,-4.2634 -5.73451,-7.2793 -10.58008,-7.2793 z" />
+      <path
+         fill="#e2c9b0"
+         fill-rule="evenodd"
+         d="m 79.678696,993.64291 3.502304,1.62469 1.715076,2.96495 11.743924,-2.96495 -0.973999,-4.756 -7.452001,-7.112 -5.461,-2.411 z"
+         clip-rule="evenodd"
+         id="path16229"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         fill="#000000"
+         fill-opacity="0.15"
+         fill-rule="evenodd"
+         d="m 183.253,901.0916 v 7.493 l -86.613,86.683 -17.535,4.427 16.561001,-9.183 z"
+         clip-rule="evenodd"
+         id="path16231"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style7039">.st0{fill:#FFFFFF;}</style>
+  <style
+     type="text/css"
+     id="style7041">.st0{fill:#FFFFFF;}</style>
+</svg>

@@ -14,11 +14,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
+    - name: Archive files
+      run: zip -r delta-linux.zip install.sh Delta
+
     - name: Create a GitHub release
       uses: softprops/action-gh-release@v0.1.15
       with:
-        files: |
-          Delta
-          install.sh
+        files: delta-linux.zip
         name: v1.0.0
         tag_name: v1.0.0

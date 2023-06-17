@@ -1,0 +1,24 @@
+name: Release
+run-name: release @ ${{ github.sha }}
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Create a GitHub release
+      uses: softprops/action-gh-release@v0.1.15
+      with:
+        files: |
+          Delta
+          install.sh
+        name: v1.0.0
+        tag_name: v1.0.0

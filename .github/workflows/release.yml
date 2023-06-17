@@ -3,6 +3,8 @@ run-name: release @ ${{ github.sha }}
 
 on:
   push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:

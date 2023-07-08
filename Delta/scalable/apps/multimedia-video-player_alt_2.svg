@@ -5,17 +5,17 @@
    fill="none"
    version="1.1"
    viewBox="0 0 192 192"
-   id="svg10333"
-   sodipodi:docname="multimedia-video-player.svg"
+   id="svg9613"
+   sodipodi:docname="multimedia-video-player_alt_2.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs10337" />
+     id="defs9617" />
   <sodipodi:namedview
-     id="namedview10335"
+     id="namedview9615"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.3489583"
-     inkscape:cx="96.186952"
-     inkscape:cy="95.906524"
+     inkscape:cx="103.29114"
+     inkscape:cy="96.467381"
      inkscape:window-width="3440"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10333" />
+     inkscape:current-layer="svg9613" />
   <rect
      x="20"
      y="20"
@@ -40,15 +40,16 @@
      height="152"
      rx="10"
      fill="#96DFD3"
-     id="rect10327" />
+     id="rect9607"
+     style="fill:#9abeff" />
   <path
-     d="M 48.584,44 C 45.7671,44 43.5,46.267 43.5,49.084 v 94.832 c 0,2.8169 2.267,5.084 5.084,5.084 h 94.832 c 2.8169,0 5.084,-2.267 5.084,-5.084 V 49.084 C 148.5,46.2671 146.233,44 143.416,44 Z M 53.5,54 h 85 v 85 h -85 z"
+     d="m 48.584,43.5 c -2.8169,0 -5.084,2.267 -5.084,5.084 v 94.832 c 0,2.8169 2.267,5.084 5.084,5.084 h 94.832 c 2.8169,0 5.084,-2.267 5.084,-5.084 V 48.584 c 0,-2.8169 -2.267,-5.084 -5.084,-5.084 z m 4.916,10 h 85 v 85 h -85 z"
      style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:0.5;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
-     id="path10329" />
+     id="path9609" />
   <path
-     d="m 84.0853,81.99 c 0,-2.3725 2.6237,-3.8062 4.6204,-2.5247 l 21.829,14.01 c 1.84,1.1806 1.84,3.8689 0,5.0495 l -21.829,14.01 c -1.9967,1.281 -4.6204,-0.153 -4.6204,-2.525 v -28.02 z"
+     d="m 84.0853,81.990118 c 0,-2.3725 2.6237,-3.8062 4.6204,-2.5247 l 21.829,14.01 c 1.84,1.1806 1.84,3.8689 0,5.0495 l -21.829,14.010002 c -1.9967,1.281 -4.6204,-0.153 -4.6204,-2.525 V 81.989918 Z"
      clip-rule="evenodd"
      fill="#ffffff"
      fill-rule="evenodd"
-     id="path10331" />
+     id="path9611" />
 </svg>

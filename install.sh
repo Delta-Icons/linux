@@ -14,7 +14,7 @@ Common_Apply () {
         sudo mkdir -p Delta /usr/share/icons
         sudo cp -r Delta /usr/share/icons
 }
-if [ "$DESKTOP_SESSION" = "gnome" ] | [ "$DESKTOP_SESSION" = "xubuntu" ] | [ "$DESKTOP_SESSION" = "budgie-desktop" ] | [ "$DESKTOP_SESSION" = "pantheon" ] | [ "$DESKTOP_SESSION" = "xfce" ] ; then
+if [ "$DESKTOP_SESSION" = "gnome" ] || [ "$DESKTOP_SESSION" = "xubuntu" ] || [ "$DESKTOP_SESSION" = "budgie-desktop" ] || [ "$DESKTOP_SESSION" = "pantheon" ] || [ "$DESKTOP_SESSION" = "xfce" ] ; then
         GTK_Apply
         gsettings set org.gnome.desktop.interface icon-theme "Delta"
         echo "installed"

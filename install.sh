@@ -29,6 +29,7 @@ elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
         read -p "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed
         if [ "$proceed" = "y" ]; then
                 QT_Apply
+                exit 0
         elif [ "$proceed" = "n" ]; then
                 exit 1
         fi

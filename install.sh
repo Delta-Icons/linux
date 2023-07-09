@@ -21,7 +21,7 @@ if [ "$DESKTOP_SESSION" = "gnome" ] || [ "$DESKTOP_SESSION" = "xubuntu" ] || [ "
         exit 0
 elif [ "$DESKTOP_SESSION" = "plasma" ]; then
         QT_Apply
-        x=`locate plasma-changeicons`
+        x=$(locate plasma-changeicons)
         $x Delta
         echo "installed"
         exit 0

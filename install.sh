@@ -1,13 +1,16 @@
 #!/bin/bash
 GTK_Apply () {
+        rm -rf ~/.icons/Delta
         mkdir -p Delta ~/.icons
         mv Delta ~/.icons/
 }
 QT_Apply () {
+        rm -rf ~/.local/share/icons/Delta
         mkdir -p Delta ~/.local/share/icons
         mv Delta ~/.local/share/icons/
 }
 Common_Apply () {
+        rm -rf /usr/share/icons/Delta
         sudo mkdir -p Delta /usr/share/icons
         sudo mv Delta /usr/share/icons
 }
@@ -15,7 +18,7 @@ End_Program () {
         read blegh
         break        
 }
-if [ "$DESKTOP_SESSION" = "gnome" ] | [ "$DESKTOP_SESSION" = "xubuntu" ] | [ "$DESKTOP_SESSION" = "budgie-desktop" ] | [ "$DESKTOP_SESSION" = "pantheon" ] ; then
+if [ "$DESKTOP_SESSION" = "gnome" ] | [ "$DESKTOP_SESSION" = "xubuntu" ] | [ "$DESKTOP_SESSION" = "budgie-desktop" ] | [ "$DESKTOP_SESSION" = "pantheon" ] | [ "$DESKTOP_SESSION" = "xfce" ] ; then
         GTK_Apply
         gsettings set org.gnome.desktop.interface icon-theme "Delta"
         echo "installed"

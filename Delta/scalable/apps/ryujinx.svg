@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   fill="none"
+   version="1.1"
+   id="svg6019"
+   sodipodi:docname="youtube.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6023" />
+  <sodipodi:namedview
+     id="namedview6021"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="5.35"
+     inkscape:cx="80.934579"
+     inkscape:cy="88.691589"
+     inkscape:window-width="2799"
+     inkscape:window-height="1288"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6019">
+    <sodipodi:guide
+       position="-98.89776,22.808179"
+       orientation="1,0"
+       id="guide6199"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="96,20"
+       orientation="1,0"
+       id="guide6201"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8,65.059396"
+       orientation="1,0"
+       id="guide6203"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="184,48.9815"
+       orientation="1,0"
+       id="guide6205"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="53.54337,67.523511"
+       orientation="1,0"
+       id="guide6207"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     id="rect6015-5"
+     d="m 85.135742,32 c -5.539994,0 -10,4.460006 -10,10 v 108 c 0,5.53999 4.460006,10 10,10 H 116.86426 V 32 Z" />
+  <g
+     id="g1537"
+     transform="translate(-0.25)">
+    <path
+       id="rect6015"
+       d="M 18,32 C 12.460006,32 8,36.460006 8,42 v 108 c 0,5.53999 4.460006,10 10,10 H 53.542969 V 32 Z"
+       style="fill:#9abeff" />
+    <path
+       id="rect6015-6"
+       d="m 174.5,32 c 5.53999,0 10,4.460006 10,10 v 108 c 0,5.53999 -4.46001,10 -10,10 H 138.95703 V 32 Z"
+       style="fill:#ff837d" />
+    <rect
+       style="fill:#56595b;stroke:none;stroke-width:16.0313;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1320"
+       width="85.414062"
+       height="128"
+       x="53.542969"
+       y="32" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:85.22px;font-family:Now;-inkscape-font-specification:'Now Bold';fill:#ffffff;stroke:none;stroke-width:36.5229;stroke-linecap:round;stroke-linejoin:round"
+     x="59.461926"
+     y="127.26509"
+     id="text1430"><tspan
+       sodipodi:role="line"
+       id="tspan1428"
+       x="59.461926"
+       y="127.26509"
+       style="stroke-width:36.5229">#</tspan></text>
+</svg>

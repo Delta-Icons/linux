@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="filezilla.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="ubank.png"
+   inkscape:export-xdpi="121.26316"
+   inkscape:export-ydpi="121.26316"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.7830213"
+     inkscape:cx="87.892712"
+     inkscape:cy="106.79295"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17"
+     showguides="true">
+    <sodipodi:guide
+       position="86.372763,117.44815"
+       orientation="0,-1"
+       id="guide1910"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="95.149679,85.9329"
+       orientation="1,0"
+       id="guide2105"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     width="151.7"
+     height="151.7"
+     x="20.150002"
+     y="20.150002"
+     rx="9.9802628"
+     style="opacity:1;isolation:isolate;fill:#ff837d;stroke:none;stroke-width:0.998026;stroke-linecap:round;stroke-linejoin:round"
+     id="rect9" />
+  <g
+     id="g4845"
+     transform="matrix(2.5862451,0,0,2.5862451,-171.22243,-122.98644)">
+    <g
+       aria-label="Fz"
+       id="text1903"
+       style="font-weight:bold;font-size:37.3333px;font-family:Now;-inkscape-font-specification:'Now Bold';fill:#ff837d;stroke-width:0.7">
+      <path
+         d="M 106.89888,74.237243 V 68.823915 H 90.052231 v 27.999976 h 6.159995 V 85.530567 h 9.146654 v -5.413329 h -9.146654 v -5.879995 z"
+         style="fill:#ffffff"
+         id="path1905" />
+      <path
+         d="M 116.59673,80.119006 H 99.508299 v 5.407087 h 7.447481 L 98.437082,100.5231 H 116.29067 V 95.116024 H 108.027 Z"
+         style="fill:#ffffff;stroke-width:0.765155"
+         id="path1907" />
+    </g>
+  </g>
+</svg>

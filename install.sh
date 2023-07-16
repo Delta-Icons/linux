@@ -26,7 +26,7 @@ elif [ "$DESKTOP_SESSION" = "plasma" ]; then
         echo "installed"
         exit 0
 elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
-        read -p "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed
+        read -pr "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed
         if [ "$proceed" = "y" ]; then
                 QT_Apply
                 exit 0
@@ -35,7 +35,7 @@ elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
         fi
 else
         echo "Your Desktop Environment isn't recognised or isn't supported, We can try a few things, or you can look online for other resources,"
-        read -p "Abort(0), Place in GTK non-root space(1), Place in Qt non-root space(2), Place in common space (requires root)(3)" whatdo
+        read -pr "Abort(0), Place in GTK non-root space(1), Place in Qt non-root space(2), Place in common space (requires root)(3)" whatdo
         if [ "$whatdo" = "0" ]; then
                 exit 1
         elif [ "$whatdo" = "1" ]; then

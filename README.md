@@ -12,14 +12,14 @@
 ## Notice
 * It is recommended to use dark themes with this icon pack.
 
-## Installation
-* Clone this repository to somewhere on your machine:
-	- `git clone https://github.com/Delta-Icons/linux.git`
+## Installation Methods
 
 * **Easy way**:
-	- There is now a new install script you can try out! Download the Delta Folder, and the "install.sh" and run the script in the terminal!
+	- `curl -sSf https://raw.githubusercontent.com/Delta-Icons/linux/master/resources/get.sh | sh`
 
-* **Harder way**:
+* **Manual method**:
+  	- Clone this repository to somewhere on your machine:
+	- `git clone https://github.com/Delta-Icons/linux.git`
 	- Move the `Delta` folder to `/usr/share/icons` (All Users), `~/.local/share/icons` (KDE), or `~/.icons` (GTK).
 
 * Set the icon theme in one of the following ways:

@@ -1,29 +1,33 @@
 #!/bin/bash
 GTK_Apply () {
+        echo "Running GTK installation"
         rm -rf ~/.icons/Delta
         mkdir -p Delta ~/.icons
         cp -r Delta ~/.icons/
 }
 QT_Apply () {
+        echo "Running QT installation"
         rm -rf ~/.local/share/icons/Delta
         mkdir -p Delta ~/.local/share/icons
         cp -r Delta ~/.local/share/icons/
 }
 Common_Apply () {
+        echo "Running generic installation on /usr/share/icons/"
         rm -rf /usr/share/icons/Delta
         sudo mkdir -p Delta /usr/share/icons
         sudo cp -r Delta /usr/share/icons
 }
+echo "Current desktop: $DESKTOP_SESSION"
 if [ "$DESKTOP_SESSION" = "gnome" ] || [ "$DESKTOP_SESSION" = "xubuntu" ] || [ "$DESKTOP_SESSION" = "budgie-desktop" ] || [ "$DESKTOP_SESSION" = "pantheon" ] || [ "$DESKTOP_SESSION" = "xfce" ] ; then
         GTK_Apply
         gsettings set org.gnome.desktop.interface icon-theme "Delta"
-        echo "installed"
+        echo "Installed"
         exit 0
 elif [ "$DESKTOP_SESSION" = "plasma" ]; then
         QT_Apply
         x=$(locate plasma-changeicons)
         $x Delta
-        echo "installed"
+        echo "Installed"
         exit 0
 elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
         read -pr "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed

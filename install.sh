@@ -18,41 +18,62 @@ Common_Apply () {
         sudo cp -r Delta /usr/share/icons
 }
 echo "Current desktop: $DESKTOP_SESSION"
-if [ "$DESKTOP_SESSION" = "gnome" ] || [ "$DESKTOP_SESSION" = "xubuntu" ] || [ "$DESKTOP_SESSION" = "budgie-desktop" ] || [ "$DESKTOP_SESSION" = "pantheon" ] || [ "$DESKTOP_SESSION" = "xfce" ] ; then
-        GTK_Apply
-        gsettings set org.gnome.desktop.interface icon-theme "Delta"
-        echo "Installed"
-        exit 0
-elif [ "$DESKTOP_SESSION" = "plasma" ]; then
-        QT_Apply
-        x=$(locate plasma-changeicons)
-        $x Delta
-        echo "Installed"
-        exit 0
-elif [ "$DESKTOP_SESSION" = "cinnamon" ]; then
-        read -pr "Your Desktop Environment doesn't support a completely automatic install, you will have to select and apply the icon pack in your settings yourself, Proceed? y/N " proceed
-        if [ "$proceed" = "y" ]; then
-                QT_Apply
-                exit 0
-        elif [ "$proceed" = "n" ]; then
-                exit 1
-        fi
-else
-        echo "Your Desktop Environment isn't recognised or isn't supported, We can try a few things, or you can look online for other resources,"
-        read -pr "Abort(0), Place in GTK non-root space(1), Place in Qt non-root space(2), Place in common space (requires root)(3)" whatdo
-        if [ "$whatdo" = "0" ]; then
-                exit 1
-        elif [ "$whatdo" = "1" ]; then
-                GTK_Apply                
-                echo "You should now try and apply the icon pack"
-                exit 0
-        elif [ "$whatdo" = "2" ]; then
-                QT_Apply
-                echo "You should now try and apply the icon pack"
-                exit 0
-        elif [ "$whatdo" = "3" ]; then
-                Common_Apply
-                echo "You should now try and apply the icon pack"
-                exit 0
-        fi
-fi
+case $DESKTOP_SESSION in
+gnome | xubuntu | budgie-desktop | pantheon | xfce)
+GTK_Apply
+gsettings set org.gnome.desktop.interface icon-theme "Delta"
+echo "Installed"
+exit 0
+;;
+plasma)
+QT_Apply
+x=$(locate plasma-changeicons)
+$x Delta
+echo "Installed"
+exit 0
+;;
+cinnamon)
+read -pr "Your Desktop Environment doesn't support a completely automatic \
+install, you will have to select and apply the icon pack in your settings \
+yourself, Proceed? y/N " proceed
+case $proceed in
+y)
+QT_Apply
+exit 0
+;;
+n)
+exit 1
+;;
+esac
+;;
+*)
+echo "Your Desktop Environment isn't recognised or isn't supported, \
+Please open an issue on the Linux branch,\
+you can also try and installing by looking up where your Desktop Envirnoment\
+supports Icon Packs"
+read -pr "Abort(0), Place in GTK non-root space(1), \
+Place in Qt non-root space(2), Place in common space \
+(requires root)(3)" whatdo
+case $whatdo in
+0)
+exit 1
+;;
+1)
+GTK_Apply                
+echo "You should now try and apply the icon pack"
+exit
+;;
+2)
+QT_Apply
+echo "You should now try and apply the icon pack"
+exit 0
+;;
+3)
+Common_Apply
+echo "You should now try and apply the icon pack"
+exit 0
+;;
+*)
+echo "Invalid Input"
+esac
+esac

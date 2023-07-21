@@ -39,8 +39,8 @@ unzip delta-linux.zip -d delta-linux > /dev/null
               ;;
       cinnamon)
               read -pr "Your Desktop Environment doesn't support a completely \
-              automatic install, you will have to select and apply the icon pack \
-              in your settings yourself, Proceed? y/N " proceed
+              automatic install, you will have to select and apply the icon \
+              pack in your settings yourself, Proceed? y/N " proceed
               case $proceed in
               y)
                       QT_Apply
@@ -54,7 +54,7 @@ unzip delta-linux.zip -d delta-linux > /dev/null
       *)
               echo "Your Desktop Environment isn't recognised or isn't \
               supported, Please open an issue on the Linux branch,\
-              you can also try and installing by looking up where your Desktop \
+              you can also try and installing by looking up where your Desktop\
               Envirnoment supports Icon Packs"
               read -pr "Abort(0), Place in GTK non-root space(1), \
               Place in Qt non-root space(2), Place in common space \

@@ -21,6 +21,14 @@ Common_Apply () {
         echo "Installed"
 }
 
+Abort_Install () {
+        echo "Exiting Install"
+        cd ..
+        rm -rf delta-linux.zip
+        rm -rf delta-linux
+        exit 1
+}
+
 curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
 unzip delta-linux.zip -d delta-linux > /dev/null
 cd delta-linux
@@ -29,13 +37,11 @@ cd delta-linux
       gnome | xubuntu | budgie-desktop | pantheon | xfce)
               GTK_Apply
               gsettings set org.gnome.desktop.interface icon-theme "Delta"
-              exit 0
               ;;
       plasma)
               QT_Apply
               x=$(locate plasma-changeicons)
               $x Delta
-              exit 0
               ;;
       cinnamon)
               read -pr "Your Desktop Environment doesn't support a completely \
@@ -47,8 +53,8 @@ cd delta-linux
                       exit 0
                       ;;
               n)
-                      exit 1
-                      ;;
+                        Abort_Install
+                        ;;
               esac
               ;;
       *)
@@ -61,22 +67,19 @@ cd delta-linux
               (requires root)(3)" whatdo
               case $whatdo in
               0)
-                      exit 1
+                      Abort_Install
                       ;;
               1)
-                      GTK_Apply                
+                      GTK_Apply
                       echo "You should now try and apply the icon pack"
-                      exit
                       ;;
               2)
                       QT_Apply
                       echo "You should now try and apply the icon pack"
-                      exit 0
                       ;;
               3)
                       Common_Apply
                       echo "You should now try and apply the icon pack"
-                      exit 0
                       ;;
               *)
                       echo "Invalid Input"

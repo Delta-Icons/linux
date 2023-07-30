@@ -83,5 +83,5 @@ unzip delta-linux.zip -d delta-linux > /dev/null
               esac
     esac
   cd ..
-rm delta-linux.zip
+rm -rf delta-linux.zip
 rm -rf delta-linux

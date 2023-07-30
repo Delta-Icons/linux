@@ -23,7 +23,7 @@ Common_Apply () {
 
 curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
 unzip delta-linux.zip -d delta-linux > /dev/null
-  cd delta-linux || exit
+cd delta-linux
     echo "Current desktop: $DESKTOP_SESSION"
     case $DESKTOP_SESSION in
       gnome | xubuntu | budgie-desktop | pantheon | xfce)

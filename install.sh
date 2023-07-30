@@ -1,78 +1,108 @@
 #!/bin/bash
-GTK_Apply () {
-        echo "Running GTK installation"
-        rm -rf ~/.icons/Delta
-        mkdir -p Delta ~/.icons
-        cp -r Delta ~/.icons/
-        echo "Installed"
-}
-QT_Apply () {
-        echo "Running QT installation"
-        rm -rf ~/.local/share/icons/Delta
-        mkdir -p Delta ~/.local/share/icons
-        cp -r Delta ~/.local/share/icons/
-        echo "Installed"
-}
-Common_Apply () {
-        echo "Running generic installation on /usr/share/icons/"
-        rm -rf /usr/share/icons/Delta
-        sudo mkdir -p Delta /usr/share/icons
-        sudo cp -r Delta /usr/share/icons
-        echo "Installed"
-}
-echo "Current desktop: $DESKTOP_SESSION"
 case $DESKTOP_SESSION in
 gnome | xubuntu | budgie-desktop | pantheon | xfce)
-        GTK_Apply
-        gsettings set org.gnome.desktop.interface icon-theme "Delta"
-        exit 0
+        Installation_Method="GTK"
+        Installation_Path=~/.icons
         ;;
-plasma)
-        QT_Apply
-        x=$(locate plasma-changeicons)
-        $x Delta
-        exit 0
-        ;;
-cinnamon)
-        read -pr "Your Desktop Environment doesn't support a completely \
-        automatic install, you will have to select and apply the icon pack \
-        in your settings yourself, Proceed? y/N " proceed
-        case $proceed in
-        y)
-                QT_Apply
-                exit 0
-                ;;
-        n)
-                exit 1
-                ;;
-        esac
+plasma | plasmawayland | cinnamon)
+        Installation_Method="QT"
+        Installation_Path=~/.local/share/icons
         ;;
 *)
+        Installation_Method="Generic"
+        Installation_Path="/usr/share/icons"
+esac
+
+function Delta_Apply () {
+        echo "Running $Installation_Method installation"
+        rm -rf $Installation_Path/Delta
+        mkdir -p Delta $Installation_Path
+        curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
+        case $Installation_Method in
+        Generic)
+                unzip -d delta-linux delta-linux.zip > /dev/null
+                sudo mv delta-linux/ $Installation_Path
+                ;;
+        *)
+                unzip  delta-linux.zip -d $Installation_Path > /dev/null
+                ;;
+        esac
+        echo "Installed"
+}
+
+echo "Current desktop: $DESKTOP_SESSION"
+case $DESKTOP_SESSION in
+gnome | xubuntu | budgie-desktop | pantheon | xfce | plasma | plasmawayland | cinnamon)
+        case $Installation_Method in
+        GTK)
+                echo "$DESKTOP_SESSION supports fully automated install"
+                ;;
+        QT)
+                echo "$DESKTOP_SESSION doesn't support fully automated installs \
+                You will have to manually select it from your settings panel"
+                ;;
+        esac
+        read -r -p "Do You wish to continue? y/n " proceed
+                case $proceed in
+                y)
+                        case $Installation_Method in
+                        GTK)
+                                Delta_Apply
+                                case $DESKTOP_SESSION in
+                                xfce)
+                                        xfconf-query -c xsettings -p /Net/IconThemeName -s "Delta"
+                                        ;;
+                                *)
+                                        gsettings set org.gnome.desktop.interface icon-theme "Delta"
+                                        ;;
+                                esac
+                                ;;
+                        QT)
+                                Delta_Apply
+                                echo "Delta has been moved, You can now apply Delta from your settings panel"
+                                echo "Coming soon to your local customisation store!"
+                                ;;
+                        esac
+                        rm -rf delta-linux.zip
+                        rm -rf delta-linux
+                        ;;
+                n)
+                        exit 0
+                        ;;
+                *)
+                        echo "invalid input"
+                        ;;
+                esac
+                ;;
+*)
         echo "Your Desktop Environment isn't recognised or isn't \
-        supported, Please open an issue on the Linux branch,\
-        you can also try and installing by looking up where your Desktop \
+        supported yet, Please open an issue on the Linux branch, \
+        you can also try and installing by looking up where your Desktop\
         Envirnoment supports Icon Packs"
-        read -pr "Abort(0), Place in GTK non-root space(1), \
+        read -r -p "Abort(0), Place in GTK non-root space(1), \
         Place in Qt non-root space(2), Place in common space \
         (requires root)(3)" whatdo
         case $whatdo in
         0)
-                exit 1
+                exit 0
                 ;;
         1)
-                GTK_Apply                
+                Installation_Method="GTK"
+                Installation_Path=~/.icons
+                Delta_Apply
                 echo "You should now try and apply the icon pack"
-                exit
                 ;;
         2)
-                QT_Apply
+                Installation_Method="QT"
+                Installation_Path=~/.local/share/icons
+                Delta_Apply
                 echo "You should now try and apply the icon pack"
-                exit 0
                 ;;
         3)
-                Common_Apply
+                Installation_Method="Generic"
+                Installation_Path=~/.local/share/icons
+                Delta_Apply
                 echo "You should now try and apply the icon pack"
-                exit 0
                 ;;
         *)
                 echo "Invalid Input"

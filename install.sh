@@ -35,8 +35,10 @@ GTK)
                 echo "$DESKTOP_SESSION supports fully automated install"
                 ;;
         QT)
-                echo "$DESKTOP_SESSION doesn't support fully automated installs \
-                You will have to manually select it from your settings panel"
+
+echo "$DESKTOP_SESSION doesn't support fully automated installs \
+You will have to manually select it from your settings panel"
+
                 ;;
         esac
         read -r -p "Do You wish to continue? y/n " proceed
@@ -56,9 +58,10 @@ GTK)
                         ;;
                 QT)
                         Delta_Apply
-                        echo "Delta has been moved, You can now apply Delta \
-                        from your settings panel"
-                        echo "Coming soon to your local customisation store!"
+
+echo "Delta has been moved, You can now apply Delta from your settings panel"
+echo "Coming soon to your local customisation store!"
+                        
                         ;;
                 esac
                         rm -rf delta-linux.zip
@@ -73,13 +76,14 @@ GTK)
         esac
         ;;
 *)
-        echo "Your Desktop Environment isn't recognised or isn't \
-        supported yet, Please open an issue on the Linux branch, \
-        you can also try and installing by looking up where your Desktop\
-        Envirnoment supports Icon Packs"
-        read -r -p "Abort(0), Place in GTK non-root space(1), \
-        Place in Qt non-root space(2), Place in common space \
-        (requires root)(3)" whatdo
+
+echo "Your Desktop Environment isn't recognised or isn't supported yet,\
+Please open an issue on the Linux branch, you can also try and installing \
+by looking up where your Desktop Envirnoment supports Icon Packs"
+
+read -r -p "Abort(0), Place in GTK non-root space(1), Place in Qt non-root \
+space(2), Place in common space (requires root)(3)" whatdo
+
         case $whatdo in
         0)
                 exit 0

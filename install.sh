@@ -1,26 +1,26 @@
 #!/bin/bash
 case $DESKTOP_SESSION in
 gnome | xubuntu | budgie-desktop | pantheon | xfce)
-        Installation_Method="GTK"
+        Installation_Method=GTK
         Installation_Path=~/.icons
         ;;
 plasma | plasmawayland | cinnamon)
-        Installation_Method="QT"
+        Installation_Method=QT
         Installation_Path=~/.local/share/icons
         ;;
 esac
 
 function Delta_Apply () {
         echo "Running $Installation_Method installation"
-        rm -rf "$Installation_Path"/Delta
-        mkdir -p Delta "$Installation_Path"
         curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
         case $Installation_Method in
         Generic)
+                sudo rm -rf "$Installation_Path"/Delta
                 unzip -d delta-linux delta-linux.zip > /dev/null
                 sudo mv delta-linux/ "$Installation_Path"
                 ;;
         *)
+                rm -rf "$Installation_Path"/Delta
                 unzip  delta-linux.zip -d "$Installation_Path" > /dev/null
                 ;;
         esac
@@ -41,9 +41,9 @@ You will have to manually select it from your settings panel"
 
                 ;;
         esac
-        read -r -p "Do You wish to continue? y/n " proceed
+        read -r -p "Do you wish to continue? Y/n -> " proceed
         case $proceed in
-        y)
+        [Yy]* | "")
                 case $Installation_Method in
                 GTK)
                         Delta_Apply
@@ -58,9 +58,8 @@ You will have to manually select it from your settings panel"
                         ;;
                 QT)
                         Delta_Apply
-
-echo "Delta has been moved, You can now apply Delta from your settings panel"
-echo "Coming soon to your local customisation store!"
+                        echo "Delta has been moved, You can now apply Delta from your settings panel."
+                        echo "Coming soon to your local customisation store!"
                         
                         ;;
                 esac
@@ -89,22 +88,22 @@ space(2), Place in common space (requires root)(3)" whatdo
                 exit 0
                 ;;
         1)
-                Installation_Method="GTK"
+                Installation_Method=GTK
                 Installation_Path=~/.icons
                 Delta_Apply
-                echo "You should now try and apply the icon pack"
+                echo "You should now try and apply the icon pack."
                 ;;
         2)
-                Installation_Method="QT"
+                Installation_Method=QT
                 Installation_Path=~/.local/share/icons
                 Delta_Apply
-                echo "You should now try and apply the icon pack"
+                echo "You should now try and apply the icon pack."
                 ;;
         3)
-                Installation_Method="Generic"
+                Installation_Method=Generic
                 Installation_Path=/usr/share/icons
                 Delta_Apply
-                echo "You should now try and apply the icon pack"
+                echo "You should now try and apply the icon pack."
                 ;;
         *)
                 echo "Invalid Input"

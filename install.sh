@@ -1,4 +1,16 @@
 #!/bin/bash
+
+RESET="\x1b[0m"
+CORAL_PINK="\x1b[38;2;255;131;125m"
+FUZZY_WUZZY="\x1b[38;2;186;101;97m"
+PALE_GOLD="\x1b[38;2;248;193;140m"
+JASMINE="\x1b[38;2;249;222;129m"
+GRANNY_S_A="\x1b[38;2;152;220;154m"
+PALE_R_E_B="\x1b[38;2;150;223;211m"
+BABY_BLUE_E="\x1b[38;2;154;190;255m"
+DARK_PASTEL_BLUE="\x1b[38;2;114;141;190m"
+UBE="\x1b[38;2;140;114;189m"
+
 case $DESKTOP_SESSION in
 gnome | xubuntu | budgie-desktop | pantheon | xfce)
         Installation_Method=GTK
@@ -11,7 +23,7 @@ plasma | plasmawayland | cinnamon)
 esac
 
 function Delta_Apply () {
-        echo "Running $Installation_Method installation"
+        echo -e "\nRunning $DARK_PASTEL_BLUE$Installation_Method$RESET\n"
         curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
         case $Installation_Method in
         Generic)
@@ -24,24 +36,24 @@ function Delta_Apply () {
                 unzip  delta-linux.zip -d "$Installation_Path" > /dev/null
                 ;;
         esac
-        echo "Installed"
+        echo -en "\n${UBE}Finished!$RESET "
 }
 
-echo "Current desktop: $DESKTOP_SESSION"
+echo -e "Welcome to the$CORAL_PINK Delta$RESET installation script!\n"
 case $Installation_Method in
 GTK)
         case $Installation_Method in
         GTK)
-                echo "$DESKTOP_SESSION supports fully automated install"
+                echo -e "The current desktop ($PALE_GOLD${DESKTOP_SESSION^}$RESET) supports automatic installation.\n"
                 ;;
         QT)
 
-echo "$DESKTOP_SESSION doesn't support fully automated installs \
-You will have to manually select it from your settings panel"
-
+                echo -e "The current desktop ($RESET$DESKTOP_SESSION$RESET) supports Manual installation.
+You will have to manually select the pack from your settings panel.\n"
                 ;;
         esac
-        read -r -p "Do you wish to continue? Y/n -> " proceed
+        echo -e "Do you wish to continue?$PALE_R_E_B Y${RESET}/n"
+        read -r -p "-> " proceed
         case $proceed in
         [Yy]* | "")
                 case $Installation_Method in
@@ -75,14 +87,16 @@ You will have to manually select it from your settings panel"
         esac
         ;;
 *)
+        echo -e "Your Desktop Environment ($PALE_GOLD${DESKTOP_SESSION^}$RESET) isn't recognised or isn't supported yet.
+Please open an issue on the Linux branch, you can also try and install
+by looking up how your Desktop Environment handles Icon Packs. \n"
 
-echo "Your Desktop Environment isn't recognised or isn't supported yet,\
-Please open an issue on the Linux branch, you can also try and installing \
-by looking up where your Desktop Envirnoment supports Icon Packs"
+        echo -e "${JASMINE}0 -$RESET Abort 
+${GRANNY_S_A}1 -$RESET Place in the GTK path (~/.icons)
+${PALE_R_E_B}2 -$RESET Place in the QT path (~/.local/share/icons)
+${BABY_BLUE_E}3 -$RESET Place in the$FUZZY_WUZZY ROOT$RESET path (/usr/share/icons)"
 
-read -r -p "Abort(0), Place in GTK non-root space(1), Place in Qt non-root \
-space(2), Place in common space (requires root)(3)" whatdo
-
+        read -rp "-> "  whatdo
         case $whatdo in
         0)
                 exit 0

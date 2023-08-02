@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "$1"
+
 RESET="\x1b[0m"
 CORAL_PINK="\x1b[38;2;255;131;125m"
 FUZZY_WUZZY="\x1b[38;2;186;101;97m"

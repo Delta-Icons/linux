@@ -104,22 +104,21 @@ ${BABY_BLUE_E}3 -$RESET Place in the$FUZZY_WUZZY ROOT$RESET path (/usr/share/ico
         1)
                 Installation_Method=GTK
                 Installation_Path=~/.icons
-                Delta_Apply
-                echo "You should now try and apply the icon pack."
                 ;;
         2)
                 Installation_Method=QT
                 Installation_Path=~/.local/share/icons
-                Delta_Apply
-                echo "You should now try and apply the icon pack."
                 ;;
         3)
                 Installation_Method=Generic
                 Installation_Path=/usr/share/icons
-                Delta_Apply
-                echo "You should now try and apply the icon pack."
                 ;;
         *)
                 echo "Invalid Input"
+                exit 1
         esac
+        
+        Delta_Apply
+        echo "You should now try and apply the icon pack."
+        ;;
 esac

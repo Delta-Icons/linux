@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "$1"
-
 RESET="\x1b[0m"
 CORAL_PINK="\x1b[38;2;255;131;125m"
 FUZZY_WUZZY="\x1b[38;2;186;101;97m"
@@ -124,3 +122,4 @@ ${BABY_BLUE_E}3 -$RESET Place in the$FUZZY_WUZZY ROOT$RESET path (/usr/share/ico
         echo "You should now try and apply the icon pack."
         ;;
 esac
+exit 0

@@ -24,16 +24,16 @@ esac
 
 function Delta_Apply () {
         echo -e "\nRunning $DARK_PASTEL_BLUE$Installation_Method$RESET\n"
-        curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.zip
+        curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.tar.gz
         case $Installation_Method in
         Generic)
                 sudo rm -rf "$Installation_Path"/Delta
-                unzip -d delta-linux delta-linux.zip > /dev/null
+                tar xf delta-linux.tar.gz --directory=delta-linux
                 sudo mv delta-linux/ "$Installation_Path"
                 ;;
         *)
                 rm -rf "$Installation_Path"/Delta
-                unzip  delta-linux.zip -d "$Installation_Path" > /dev/null
+                tar xf delta-linux.tar.gz --directory="$Installation_Path"
                 ;;
         esac
         echo -en "\n${UBE}Finished!$RESET "
@@ -75,7 +75,7 @@ You will have to manually select the pack from your settings panel.\n"
                         
                         ;;
                 esac
-                        rm -rf delta-linux.zip
+                        rm -rf delta-linux.tar.gz
                         rm -rf delta-linux
                         ;;
         n)

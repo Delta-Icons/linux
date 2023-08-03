@@ -9,22 +9,20 @@
 	<img src="https://raw.githubusercontent.com/Delta-Icons/Linux/master/delta-showcase.png" alt="">
 </p>
 
-## Notice
-* It is recommended to use dark themes with this icon pack.
+> Notice, It is recommended to use dark themes with this icon pack.
 
-## Installation
-* Clone this repository to somewhere on your machine:
-	- `git clone https://github.com/Delta-Icons/linux.git`
+## Installation Methods
 
-* **Easy way**:
-	- There is now a new install script you can try out! Download the Delta Folder, and the "install.sh" and run the script in the terminal!
+* **Recommended way**:
+	- `curl -sSf https://raw.githubusercontent.com/Delta-Icons/linux/master/install.sh | sh`
 
-* **Harder way**:
-	- Move the `Delta` folder to `/usr/share/icons` (All Users), `~/.local/share/icons` (KDE), or `~/.icons` (GTK).
-
-* Set the icon theme in one of the following ways:
-	- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. GNOME Tweak Tool).
-	- **GNOME**: Run `gsettings set org.gnome.desktop.interface icon-theme "Delta"`.
+* **Manual method**:
+  	1. Clone this repository to somewhere on your machine: `git clone https://github.com/Delta-Icons/linux.git`
+  	2. Move the `Delta` folder to `/usr/share/icons` (All Users), `~/.local/share/icons` (KDE), or `~/.icons` (GTK).
+	3. Set the icon theme in one of the following ways:
+		- Set the icon theme to `Delta` in the Settings menu for your distro (e.g. KDE System Settings).
+		- **GNOME**: Run `gsettings set org.gnome.desktop.interface icon-theme "Delta"`.
+        - **XFCE**: Run `xfconf-query -c xsettings -p /Net/IconThemeName -s "Delta"`.
 
 ## Our Discord Server
 If you need help contributing or just want to chat with other contributors feel free to join us here: https://discord.gg/F9RFqHN <br>

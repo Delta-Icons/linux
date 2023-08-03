@@ -17,11 +17,16 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Archive files
-      run: zip -r delta-linux.zip install.sh Delta
+      run: tar czf delta-linux.tar.gz Delta
+
+    - name: Add short commit hash to env
+      run: echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-8`" >> $GITHUB_ENV
+      
+    - name: Add calver to env
+      run: echo "CALVER=`date "+%Y.%m.%d"`" >> $GITHUB_ENV
 
     - name: Create a GitHub release
       uses: softprops/action-gh-release@v0.1.15
       with:
-        files: delta-linux.zip
-        name: v1.0.0
-        tag_name: v1.0.0
+        files: delta-linux.tar.gz
+        tag_name: ${{ env.CALVER }}+${{ env.SHORT_SHA }}

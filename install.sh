@@ -22,7 +22,7 @@ plasma | plasmawayland | cinnamon)
         ;;
 esac
 
-function Delta_Apply () {
+Delta_Apply () {
         echo -e "\nRunning $DARK_PASTEL_BLUE$Installation_Method$RESET\n"
         curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.tar.gz
         case $Installation_Method in

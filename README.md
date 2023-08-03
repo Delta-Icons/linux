@@ -14,7 +14,7 @@
 ## Installation Methods
 
 * **Recommended way**:
-	- `curl -sSf https://raw.githubusercontent.com/Delta-Icons/linux/master/install.sh | sh`
+	- `bash -c "$(curl -sSf https://raw.githubusercontent.com/Delta-Icons/linux/master/install.sh)"`
 
 * **Manual method**:
   	1. Clone this repository to somewhere on your machine: `git clone https://github.com/Delta-Icons/linux.git`

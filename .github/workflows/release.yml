@@ -19,8 +19,10 @@ jobs:
     - name: Archive files
       run: tar czf delta-linux.tar.gz Delta
 
-    - name: Set version tag
+    - name: Add short commit hash to env
       run: echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-8`" >> $GITHUB_ENV
+      
+    - name: Add calver to env
       run: echo "CALVER=`date "+%Y.%m.%d"`" >> $GITHUB_ENV
 
     - name: Create a GitHub release

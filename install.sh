@@ -41,7 +41,7 @@ Delta_Apply () {
 
 echo -e "Welcome to the$CORAL_PINK Delta$RESET installation script!\n"
 case $Installation_Method in
-GTK)
+GTK | QT)
         case $Installation_Method in
         GTK)
                 echo -e "The current desktop ($PALE_GOLD${DESKTOP_SESSION^}$RESET) supports automatic installation.\n"

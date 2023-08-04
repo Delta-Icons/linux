@@ -4,7 +4,7 @@ run-name: release @ ${{ github.sha }}
 on:
   push:
     paths:
-      - 'Delta/'
+      - 'Delta/**'
   workflow_dispatch:
 
 jobs:

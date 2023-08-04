@@ -3,8 +3,8 @@ run-name: release @ ${{ github.sha }}
 
 on:
   push:
-    branches:
-      - master
+    paths:
+      - 'Delta/**'
   workflow_dispatch:
 
 jobs:

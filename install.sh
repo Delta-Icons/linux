@@ -33,7 +33,7 @@ Delta_Apply () {
                 ;;
         *)
                 rm -rf "$Installation_Path"/Delta
-                [[ ! -z $HOME/.icons ]] && mkdir $Installation_Path
+                [[ ! -z "$Installation_Path" ]] && mkdir -pv "$Installation_Path"
                 tar xf delta-linux.tar.gz --directory="$Installation_Path"
                 ;;
         esac

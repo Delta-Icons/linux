@@ -30,3 +30,10 @@ jobs:
       with:
         files: delta-linux.tar.gz
         tag_name: ${{ env.CALVER }}+${{ env.SHORT_SHA }}
+
+    - name: Update the website
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: deploy.yml
+        repo: ${{ github.repository_owner }}/delta-icons.github.io
+        token: ${{ secrets.PA_TOKEN }}

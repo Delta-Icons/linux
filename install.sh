@@ -12,7 +12,7 @@ DARK_PASTEL_BLUE="\x1b[38;2;114;141;190m"
 UBE="\x1b[38;2;140;114;189m"
 
 case $DESKTOP_SESSION in
-gnome | xubuntu | budgie-desktop | pantheon | xfce | Ubuntu)
+gnome | xubuntu | budgie-desktop | pantheon | xfce | ubuntu)
         Installation_Method=GTK
         Installation_Path=~/.icons
         ;;

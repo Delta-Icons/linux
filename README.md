@@ -14,7 +14,7 @@
 ## Installation Methods
 
 * **Recommended way**:
-	- `bash <(curl -sL delta-icons.github.io/linux)`
+	- `bash -c 'bash <(curl -sL delta-icons.github.io/linux)'`
 
 * **Manual method**:
   	1. Clone this repository to somewhere on your machine: `git clone https://github.com/Delta-Icons/linux.git`

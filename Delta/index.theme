@@ -20,7 +20,7 @@ PanelSizes=16,22,24,32,48,64
 DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
-Directories=scalable/apps,scalable/games,scalable/devices,scalable/mimetypes,scalable/places,16/devices,16/places
+Directories=scalable/apps,scalable/games,scalable/devices,scalable/mimetypes,scalable/places,16/devices,16/places,16/panel
 
 [scalable/apps]
 Context=Applications

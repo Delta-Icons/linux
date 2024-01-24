@@ -37,7 +37,7 @@ Delta_Apply () {
                 tar xf delta-linux.tar.gz --directory="$Installation_Path"
                 ;;
         esac
-        echo -en "\n${UBE}Finished!$RESET\n "
+        echo -en "\n${UBE}Finished!$RESET\n"
 }
 
 echo -e "Welcome to the$CORAL_PINK Delta$RESET installation script!\n"

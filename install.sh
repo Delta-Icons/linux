@@ -24,17 +24,19 @@ esac
 
 Delta_Apply () {
         echo -e "\nRunning $DARK_PASTEL_BLUE$Installation_Method$RESET\n"
-        curl -L -O https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.tar.gz
+	# There really should be a trycatch here, it seems to go ahead even if this fails
+        curl --output /tmp/delta-linux.tar.gz --silent --location https://github.com/Delta-Icons/linux/releases/latest/download/delta-linux.tar.gz
         case $Installation_Method in
+	# Honestly forgot how any of this works, also `install` command is probably better, along with moving all of this to a makefile realistically
         Generic)
                 sudo rm -rf "$Installation_Path"/Delta
-                tar xf delta-linux.tar.gz --directory=delta-linux
+                tar xf /tmp/delta-linux.tar.gz --directory=delta-linux
                 sudo mv delta-linux/ "$Installation_Path"
                 ;;
         *)
                 rm -rf "$Installation_Path"/Delta
                 [[ ! -z "$Installation_Path" ]] && mkdir -pv "$Installation_Path"
-                tar xf delta-linux.tar.gz --directory="$Installation_Path"
+                tar xf /tmp/delta-linux.tar.gz --directory="$Installation_Path"
                 ;;
         esac
         echo -en "\n${UBE}Finished!$RESET\n"
@@ -49,7 +51,7 @@ GTK | QT)
                 ;;
         QT)
 
-                echo -e "The current desktop ($RESET$DESKTOP_SESSION$RESET) supports Manual installation.
+                echo -e "The current desktop ($RESET$DESKTOP_SESSION$RESET) supports only Manual installation.
 You will have to manually select the pack from your settings panel.\n"
                 ;;
         esac

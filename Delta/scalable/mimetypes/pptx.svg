@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg2"
+   sodipodi:docname="application-wps-office.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8"
+     inkscape:cx="47.9375"
+     inkscape:cy="114"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m33 18.996c0-5.5205 4.4729-9.9958 10.001-9.9958h80.821l35.178 35v129c0 5.5209-4.4844 9.9965-9.9923 9.9965h-106.02c-5.5186 0-9.9923-4.476-9.9923-9.9958z"
+     style="fill-rule:evenodd;fill:#ececec"
+     id="path1" />
+  <path
+     d="m120 13.998c0-5.5218 3.1644-6.8337 7.0694-2.9287l29.861 29.861c3.9043 3.9043 2.5878 7.0694-2.9287 7.0694h-24.004c-5.5218 0-9.998-4.4815-9.998-9.998z"
+     style="fill-rule:evenodd;fill:#a0a5af"
+     id="path2" />
+  <circle
+     style="fill:#f58f8a;stroke-width:7.33034;stroke-linecap:round"
+     id="path3"
+     cx="96"
+     cy="109.22017"
+     r="53.130642" />
+  <path
+     style="fill:#f8c18c;stroke-width:5.45602;stroke-linecap:round"
+     d="m 80.670542,58.350302 c 18.40372,-2.592062 15.116161,26.012369 15.116161,37.146897 0,11.134531 3.471234,13.704151 10.292867,13.704151 h 35.36737 c 6.39074,0 7.18183,4.08067 6.60985,10.63724 8.82416,-41.672523 -32.6753,-73.557838 -67.386248,-61.488288 z"
+     id="path4"
+     sodipodi:nodetypes="czzccc" />
+  <rect
+     style="fill:#f8c18c;stroke:none;stroke-width:6.01481;stroke-linecap:round"
+     id="rect4"
+     width="39.67696"
+     height="39.67696"
+     x="43.428913"
+     y="108.8864"
+     rx="10.740741" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.5611px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;direction:ltr;fill:#9abeff;stroke:none;stroke-width:0.762316;stroke-linecap:round"
+     x="48.739937"
+     y="144.603"
+     id="text4"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="48.739937"
+       y="144.603"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans;fill:#ffffff;stroke-width:0.762316">P</tspan></text>
+</svg>

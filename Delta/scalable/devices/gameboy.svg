@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg2"
+   sodipodi:docname="gameboy.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1009579"
+     inkscape:cx="90.133439"
+     inkscape:cy="83.200098"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 33,18.996 c 0,-5.5205 4.4729,-9.9958 10.001,-9.9958 l 104.68459,0 C 156.52975,9.0002 159,13.340138 159,19.491644 V 153 c 0,20.35503 -7.80866,29.9967 -29.992,29.9967 H 42.9877 c -5.5186,0 -9.9923,-4.476 -9.9923,-9.9958 z"
+     style="fill:#ececec;fill-rule:evenodd"
+     id="path1"
+     sodipodi:nodetypes="csccssscc" />
+  <path
+     d="m 41.386196,29.621817 c 0,-4.785818 3.877635,-8.665533 8.670041,-8.665533 h 90.752893 c 7.66716,0 9.80866,3.762368 9.80866,9.095216 v 42.748709 c 0,17.646131 -6.76946,26.004663 -26.00058,26.004663 H 50.044707 c -4.78417,0 -8.662499,-3.880322 -8.662499,-8.665533 z"
+     style="fill:#56595b;fill-rule:evenodd;stroke-width:0.866917"
+     id="path2"
+     sodipodi:nodetypes="csccssscc" />
+  <rect
+     style="fill:#98dc9a;stroke-width:5.6;stroke-linecap:round"
+     id="rect2"
+     width="73.848152"
+     height="59.658985"
+     x="59.075924"
+     y="30.313213" />
+  <circle
+     style="fill:#ff837d;stroke-width:5.6;stroke-linecap:round"
+     id="path3"
+     cx="138.9893"
+     cy="122.54278"
+     r="8.7069874" />
+  <circle
+     style="fill:#ff837d;stroke-width:5.6;stroke-linecap:round"
+     id="circle3"
+     cx="118.98899"
+     cy="132.54298"
+     r="8.7069874" />
+  <rect
+     style="fill:#56595b;stroke-width:3.56789;stroke-linecap:round"
+     id="rect3"
+     width="10.384214"
+     height="32.976871"
+     x="54.685413"
+     y="112.95609" />
+  <rect
+     style="fill:#56595b;stroke-width:3.56789;stroke-linecap:round"
+     id="rect4"
+     width="10.384214"
+     height="32.976871"
+     x="124.25242"
+     y="-76.365959"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#56595b;stroke-width:5.6;stroke-linecap:round"
+     id="rect5"
+     width="19.83848"
+     height="4.1045132"
+     x="-20.749226"
+     y="178.37804"
+     ry="2.0522566"
+     transform="rotate(-30)" />
+  <rect
+     style="fill:#56595b;stroke-width:5.6;stroke-linecap:round"
+     id="rect6"
+     width="19.83848"
+     height="4.1045132"
+     x="-3.4287572"
+     y="188.37801"
+     ry="2.0522566"
+     transform="rotate(-30)" />
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg2"
+   sodipodi:docname="distributor-logo-mint.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1009579"
+     inkscape:cx="62.400074"
+     inkscape:cy="101.25903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <circle
+     cx="96"
+     cy="96"
+     r="88"
+     opacity=".63"
+     style="fill:#98dc9a;opacity:1"
+     id="circle1" />
+  <path
+     id="_x3C_Path_x3E_"
+     class="st2"
+     d="m 39.444977,43.484622 v 72.713598 c 0.08079,17.85523 14.461927,32.23637 32.317156,32.31716 h 48.475737 c 17.85523,-0.0808 32.23636,-14.46193 32.31716,-32.31716 V 75.801777 c -0.0808,-13.330827 -10.90705,-24.157074 -24.23788,-24.237866 -5.97867,0 -11.71497,2.2622 -16.15857,6.382638 C 107.71497,53.906904 101.97868,51.644703 96,51.563911 82.669173,51.644703 71.842926,62.47095 71.762133,75.801777 V 116.19822 H 87.920711 V 75.801777 c 0,-4.443608 3.63568,-8.079289 8.079289,-8.079289 4.44361,0 8.07929,3.635681 8.07929,8.079289 v 40.396443 h 16.15858 V 75.801777 c 0,-4.443608 3.63568,-8.079289 8.07928,-8.079289 4.44361,0 8.0793,3.635681 8.0793,8.079289 v 40.396443 c 0.0808,8.88721 -7.10978,16.07779 -15.91621,16.15858 -0.0808,0 -0.16159,0 -0.24237,0 H 71.762133 c -8.887218,0.0808 -16.077785,-7.10978 -16.158579,-15.91619 0,-0.0808 0,-0.16159 0,-0.24239 V 43.484622 Z"
+     style="fill:#ffffff;stroke-width:0.80793"
+     inkscape:label="mint" />
+</svg>

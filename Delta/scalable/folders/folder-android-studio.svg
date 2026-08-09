@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg1"
+   sodipodi:docname="folder-android-studio.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.2019158"
+     inkscape:cx="80.539629"
+     inkscape:cy="126.89627"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     x="20"
+     y="20"
+     width="152"
+     height="152"
+     rx="10"
+     style="fill-rule:evenodd;fill:#728dbe"
+     id="rect1" />
+  <path
+     d="m20 42.997c0-5.5209 4.4776-9.9965 9.9985-9.9965h33.568c8.4587 0 11.574 13.256 15.366 13.256h83.064c5.5243 0 10.003 4.4753 10.003 9.9983v105.75c0 5.5219-4.477 9.9983-10.003 9.9983h-131.99c-5.5242 0-10.003-4.4674-10.003-9.9965z"
+     style="fill-rule:evenodd;fill:#98dc9a"
+     id="path1" />
+  <path
+     d="m 53.283744,84.186873 c 0,0 0,-8.009298 8.009298,-8.009298 H 85.320935 V 108.21477 H 61.293042 l -8.009297,-8.0093 z"
+     style="fill:#728dbe;stroke:#98dc9a;stroke-width:2.66977"
+     id="path1-5" />
+  <path
+     id="rect2"
+     style="fill:#728dbe;stroke-width:2.66977;paint-order:stroke fill markers;stroke:#98dc9a"
+     d="M 80.009766 57.259766 A 2.669765 2.669765 0 0 0 78.378906 57.794922 A 2.669765 2.669765 0 0 0 77.845703 61.53125 L 82.599609 67.871094 C 77.740676 71.779574 74.642578 77.778012 74.642578 84.527344 L 74.642578 97.876953 C 74.642578 109.70936 84.167597 119.23438 96 119.23438 C 107.8324 119.23437 117.35742 109.70936 117.35742 97.876953 L 117.35742 84.527344 C 117.35742 77.778011 114.25933 71.779574 109.40039 67.871094 L 114.1543 61.53125 A 2.669765 2.669765 0 0 0 113.62109 57.794922 A 2.669765 2.669765 0 0 0 109.88281 58.328125 L 104.83203 65.0625 C 102.14314 63.846232 99.153101 63.169922 96 63.169922 C 92.846896 63.169922 89.856862 63.846229 87.167969 65.0625 L 82.117188 58.328125 A 2.669765 2.669765 0 0 0 80.009766 57.259766 z " />
+  <path
+     d="m 53.283744,82.85199 v 54.7302 c 0,0 0,8.0093 8.009298,8.0093 h 69.413918 l 8.00929,-8.0093 V 97.535703 c 0,0 0,-8.009298 -8.00929,-8.009298 H 61.293042 c -8.009298,0 -8.009298,-6.674415 -8.009298,-6.674415 z"
+     style="fill:#728dbe;stroke:#98dc9a;stroke-width:2.66977"
+     id="path3" />
+  <path
+     d="m 130.70696,158.94032 h -5.33954 v -56.06509 h 5.33954 c 8.00929,0 8.00929,-6.67441 8.00929,-6.67441 v 54.7302 c 0,0 0,8.0093 -8.00929,8.0093 z"
+     style="fill:#728dbe;stroke:#98dc9a;stroke-width:2.66977"
+     id="path4" />
+  <path
+     d="m 96.27098,100.90106 a 1.3350164,1.3350164 0 0 0 -1.313992,1.35571 v 4.07767 a 9.3441807,9.3441807 0 0 0 -8.27494,9.27143 9.3441807,9.3441807 0 0 0 3.363305,7.18033 l -16.315607,33.79457 a 4.0050493,4.0050493 0 1 0 7.211705,3.48318 l 12.540558,-25.9835 c 0.768492,-0.66176 1.615876,-1.1211 2.544621,-1.1211 0.923005,0 1.764114,0.45586 2.529002,1.11069 l 12.551238,25.9935 a 4.0050493,4.0050493 0 1 0 7.21171,-3.48317 l -16.31561,-33.79991 a 9.3441807,9.3441807 0 0 0 3.36851,-7.17499 9.3441807,9.3441807 0 0 0 -7.743659,-9.19268 v -4.15589 a 1.3350164,1.3350164 0 0 0 -1.355774,-1.3557 z m -0.245071,10.69976 a 4.0046489,4.0046489 0 0 1 4.004651,4.00465 4.0046489,4.0046489 0 0 1 -4.004651,4.00465 4.0046489,4.0046489 0 0 1 -4.004649,-4.00465 4.0046489,4.0046489 0 0 1 4.004649,-4.00465 z"
+     style="fill:#728dbe;stroke:#98dc9a;stroke-width:5.33953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     id="path5" />
+  <circle
+     cx="87.9907"
+     cy="76.518654"
+     r="2.6697659"
+     style="fill:#98dc9a;stroke-width:5.33953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:none"
+     id="circle4" />
+  <circle
+     cx="104.00928"
+     cy="76.518654"
+     r="2.6697659"
+     style="fill:#98dc9a;stroke-width:5.33953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:none"
+     id="circle5" />
+</svg>

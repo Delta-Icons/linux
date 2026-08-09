@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg5"
+   sodipodi:docname="category-science.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1009579"
+     inkscape:cx="93.035769"
+     inkscape:cy="86.424909"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <rect
+     x="20"
+     y="20"
+     width="152"
+     height="152"
+     rx="10"
+     fill="#56595B"
+     id="rect1"
+     style="fill:#71a372" />
+  <g
+     transform="translate(47,55)"
+     id="g4"
+     style="fill:#98dc9a">
+    <g
+       fill="#B1B5BD"
+       id="g3"
+       style="fill:#98dc9a">
+      <polygon
+         points="16.68 82 24.44 82 24.44 66.08 40.36 66.08 40.36 58.24 24.44 58.24 24.44 42.32 16.68 42.32 16.68 58.24 0.68 58.24 0.68 66.08 16.68 66.08"
+         id="polygon1"
+         style="fill:#98dc9a" />
+      <polygon
+         points="95.6 5.52 90.16 0 78.8 11.28 67.52 0 62 5.52 73.28 16.8 62 28.08 67.52 33.6 78.8 22.32 90.16 33.6 95.6 28.08 84.32 16.8"
+         id="polygon2"
+         style="fill:#98dc9a" />
+      <polygon
+         points="9 17.04 31.4 17.04 31.4 10 9 10"
+         id="polygon3"
+         style="fill:#98dc9a" />
+    </g>
+  </g>
+  <path
+     d="m60 75.2h38.4v-6.4h-38.4v6.4zm0-12.8h38.4v-6.4h-38.4v6.4z"
+     fill="#98DC9A"
+     id="path1"
+     style="fill:#96dfd3"
+     transform="translate(47,55)" />
+</svg>

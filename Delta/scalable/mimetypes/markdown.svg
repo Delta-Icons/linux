@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg2"
+   sodipodi:docname="text-markdown.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1009579"
+     inkscape:cx="70.784579"
+     inkscape:cy="87.392351"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m33 18.996c0-5.5205 4.4729-9.9958 10.001-9.9958h80.821l35.178 35v129c0 5.5209-4.4844 9.9965-9.9923 9.9965h-106.02c-5.5186 0-9.9923-4.476-9.9923-9.9958z"
+     style="fill-rule:evenodd;fill:#ececec"
+     id="path1" />
+  <path
+     d="m120 13.998c0-5.5218 3.1644-6.8337 7.0694-2.9287l29.861 29.861c3.9043 3.9043 2.5878 7.0694-2.9287 7.0694h-24.004c-5.5218 0-9.998-4.4815-9.998-9.998z"
+     style="fill-rule:evenodd;fill:#a0a5af"
+     id="path2" />
+  <path
+     d="m 51.85987,125.36408 h 7.819117 V 92.826464 l -1.19809,0.882804 12.800652,24.907672 h 6.242682 L 89.946539,93.709268 89.252908,92.952579 v 32.411501 h 7.819117 V 81.602247 H 89.252908 L 72.857984,113.69846 h 3.846501 L 59.868159,81.602247 H 51.85987 Z m 74.40768,-37.834438 h -7.50383 l 0.31529,22.385378 -9.3325,-9.90001 -4.98153,4.98153 17.65607,17.97136 h 0.25223 l 17.4669,-17.97136 -4.98154,-4.85542 -9.20638,9.96307 z"
+     id="text2"
+     style="font-weight:bold;font-size:63.0574px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#54688c;stroke-width:2.25903;stroke-linecap:round;stroke-dasharray:45.9132"
+     aria-label="M↓" />
+  <rect
+     style="fill:none;stroke:#54688c;stroke-width:5.81559;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="104.90554"
+     height="58.254551"
+     x="43.54723"
+     y="73.967308"
+     rx="10.384978" />
+</svg>

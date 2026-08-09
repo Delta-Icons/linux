@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   viewBox="0 0 192 192"
+   id="svg1"
+   sodipodi:docname="folder-forgejo.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.3854168"
+     inkscape:cx="78.89786"
+     inkscape:cy="105.69121"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     x="20"
+     y="20"
+     width="152"
+     height="152"
+     rx="10"
+     style="fill-rule:evenodd;fill:#ba6561"
+     id="rect1" />
+  <path
+     d="m20 42.997c0-5.5209 4.4776-9.9965 9.9985-9.9965h33.568c8.4587 0 11.574 13.256 15.366 13.256h83.064c5.5243 0 10.003 4.4753 10.003 9.9983v105.75c0 5.5219-4.477 9.9983-10.003 9.9983h-131.99c-5.5242 0-10.003-4.4674-10.003-9.9965z"
+     style="fill-rule:evenodd;fill:#fcecdc"
+     id="path1" />
+  <g
+     id="g2"
+     inkscape:label="orange"
+     transform="matrix(0.55701683,0,0,0.55701683,42.526384,56.208094)">
+    <path
+       d="M 58,168 V 70 a 50,50 0 0 1 50,-50 h 20"
+       class="orange"
+       id="path1-2"
+       style="fill:none;stroke:#f8c18c;stroke-width:25"
+       transform="matrix(0.83886256,0,0,0.83886256,12.113744,12.113744)"
+       inkscape:label="orange-line" />
+    <circle
+       cx="142"
+       cy="20"
+       r="18"
+       class="orange"
+       id="circle2-2"
+       style="fill:none;stroke:#f8c18c;stroke-width:15"
+       transform="matrix(0.83886256,0,0,0.83886256,12.113744,12.113744)"
+       inkscape:label="orange-dot" />
+  </g>
+  <g
+     id="g1"
+     inkscape:label="red"
+     transform="matrix(0.55701683,0,0,0.55701683,42.526384,56.208094)">
+    <path
+       d="m 58,168 v -30 a 50,50 0 0 1 50,-50 h 20"
+       class="red"
+       id="path2-9"
+       style="fill:none;stroke:#ff837d;stroke-width:25"
+       transform="matrix(0.83886256,0,0,0.83886256,12.113744,12.113744)"
+       inkscape:label="red-line" />
+    <circle
+       cx="142"
+       cy="88"
+       r="18"
+       class="red"
+       id="circle3"
+       style="fill:none;stroke:#ff837d;stroke-width:15"
+       transform="matrix(0.83886256,0,0,0.83886256,12.113744,12.113744)"
+       inkscape:label="red-dot" />
+    <circle
+       cx="58"
+       cy="180"
+       r="18"
+       class="red"
+       id="circle4"
+       style="fill:none;stroke:#ff837d;stroke-width:15"
+       transform="matrix(0.83886256,0,0,0.83886256,12.113744,12.113744)"
+       inkscape:label="start-red-dot" />
+  </g>
+</svg>
